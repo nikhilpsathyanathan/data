@@ -1,2502 +1,2630 @@
-[{
-        "sub": "MA101",
-        "n": [
-            "sylb/s1-s2/MA101",
-            "n/s1-s2/ma101/MA101_M1"
-        ],
-        "qp": [
-            "q/s1-s2/ma101/MA101_2016_JUN",
-            "q/s1-s2/ma101/MA101_2016_AUG",
-            "q/s1-s2/ma101/MA101_2016_DEC_F",
-            "q/s1-s2/ma101/MA101_2016_DEC_S",
-            "q/s1-s2/ma101/MA101_2017_FEB_F",
-            "q/s1-s2/ma101/MA101_2017_FEB_S"
-        ],
-        "t": []
-    },
-    {
-        "sub": "PH100",
-        "n": [
-            "sylb/s1-s2/PH100",
-            "n/s1-s2/ph100/PH100_M1",
-            "n/s1-s2/ph100/PH100_M2",
-            "n/s1-s2/ph100/PH100_M3"
-        ],
-        "qp": [
-            "q/s1-s2/ph100/PH100_2016_AUG",
-            "q/s1-s2/ph100/PH100_2016_JAN",
-            "q/s1-s2/ph100/PH100_2016_JUL",
-            "q/s1-s2/ph100/PH100_2016_MAY",
-            "q/s1-s2/ph100/PH100_2017_JAN",
-            "q/s1-s2/ph100/PH100_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE100",
-        "n": [
-            "sylb/s1-s2/BE100",
-            "n/s1-s2/be100/BE100_M1",
-            "n/s1-s2/be100/BE100_M2",
-            "n/s1-s2/be100/BE100_M3",
-            "n/s1-s2/be100/BE100_M4"
-        ],
-        "qp": [
-            "q/s1-s2/be100/BE100_2016_AUG",
-            "q/s1-s2/be100/BE100_2016_JAN",
-            "q/s1-s2/be100/BE100_2016_JUL",
-            "q/s1-s2/be100/BE100_2017_JAN",
-            "q/s1-s2/be100/BE100_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE1011",
-        "n": [
-            "sylb/s1-s2/BE101-01"
-        ],
-        "qp": [
-            "q/s1-s2/be1011/BE1011_2016_JAN",
-            "q/s1-s2/be1011/BE1011_2016_JUN",
-            "q/s1-s2/be1011/BE1011_2016_SEP",
-            "q/s1-s2/be1011/BE1011_2017_JAN",
-            "q/s1-s2/be1011/BE1011_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE1012",
-        "n": [
-            "sylb/s1-s2/BE101-02",
-            "n/s1-s2/be1012/BE1012_M1",
-            "n/s1-s2/be1012/BE1012_M2",
-            "n/s1-s2/be1012/BE1012_M3",
-            "n/s1-s2/be1012/BE1012_M4",
-            "n/s1-s2/be1012/BE1012_M5",
-            "n/s1-s2/be1012/BE1012_M6"
-        ],
-        "qp": [
-            "q/s1-s2/be1012/BE1012_2016_JAN",
-            "q/s1-s2/be1012/BE1012_2016_JUN",
-            "q/s1-s2/be1012/BE1012_2016_SEP",
-            "q/s1-s2/be1012/BE1012_2017_JAN",
-            "q/s1-s2/be1012/BE1012_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE1013",
-        "n": [
-            "sylb/s1-s2/MBE101-03"
-        ],
-        "qp": [
-            "q/s1-s2/be1013/BE1013_2016_JAN",
-            "q/s1-s2/be1013/BE1013_2016_JUN",
-            "q/s1-s2/be1013/BE1013_2016_SEP",
-            "q/s1-s2/be1013/BE1013_2017_JAN",
-            "q/s1-s2/be1013/BE1013_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE1014",
-        "n": [
-            "sylb/s1-s2/BE101-04"
-        ],
-        "qp": [
-            "q/s1-s2/be1014/BE1014_2016_JAN",
-            "q/s1-s2/be1014/BE1014_2016_JUN",
-            "q/s1-s2/be1014/BE1014_2016_SEP",
-            "q/s1-s2/be1014/BE1014_2017_JAN",
-            "q/s1-s2/be1014/BE1014_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE1015",
-        "n": [
-            "sylb/s1-s2/BE101-05"
-        ],
-        "qp": [
-            "q/s1-s2/be1015/BE1015_2016_JAN",
-            "q/s1-s2/be1015/BE1015_2016_JUN",
-            "q/s1-s2/be1015/BE1015_2016_SEP",
-            "q/s1-s2/be1015/BE1015_2017_JAN",
-            "q/s1-s2/be1015/BE1015_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE103",
-        "n": [
-            "sylb/s1-s2/BE103"
-        ],
-        "qp": [
-            "q/s1-s2/be103/BE103_2016_JAN",
-            "q/s1-s2/be103/BE103_2016_JUN",
-            "q/s1-s2/be103/BE103_2016_SEP",
-            "q/s1-s2/be103/BE103_2017_JAN",
-            "q/s1-s2/be103/BE103_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CY100",
-        "n": [
-            "sylb/s1-s2/CY100",
-            "n/s1-s2/cy100/CY100_M1",
-            "n/s1-s2/cy100/CY100_M2",
-            "n/s1-s2/cy100/CY100_M3",
-            "n/s1-s2/cy100/CY100_M4",
-            "n/s1-s2/cy100/CY100_M5",
-            "n/s1-s2/cy100/CY100_M6"
-        ],
-        "qp": [
-            "q/s1-s2/cy100/CY100_2016_JAN",
-            "q/s1-s2/cy100/CY100_2016_AUG",
-            "q/s1-s2/cy100/CY100_2016_MAY",
-            "q/s1-s2/cy100/CY100_2016_JUL",
-            "q/s1-s2/cy100/CY100_2017_JAN",
-            "q/s1-s2/cy100/CY100_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE110",
-        "n": [
-            "sylb/s1-s2/BE110"
-        ],
-        "qp": [
-            "q/s1-s2/be110/BE110_2016_JAN",
-            "q/s1-s2/be110/BE110_2016_MAY",
-            "q/s1-s2/be110/BE110_2016_JUL",
-            "q/s1-s2/be110/BE110_2016_SEP",
-            "q/s1-s2/be110/BE110_2017_JAN",
-            "q/s1-s2/be110/BE110_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "BE102",
-        "n": [
-            "sylb/s1-s2/BE102"
-        ],
-        "qp": [
-            "q/s1-s2/be102/BE102_2016_MAY",
-            "q/s1-s2/be102/BE102_2016_JUL",
-            "q/s1-s2/be102/BE102_2016_SEP",
-            "q/s1-s2/be102/BE102_2017_JUN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EC100",
-        "n": [
-            "sylb/s1-s2/EC100",
-            "n/s1-s2/ec100/EC100_M2"
-        ],
-        "qp": [
-            "q/s1-s2/ec100/EC100_2016_JAN",
-            "q/s1-s2/ec100/EC100_2016_MAY",
-            "q/s1-s2/ec100/EC100_2016_JUL",
-            "q/s1-s2/ec100/EC100_2016_SEP",
-            "q/s1-s2/ec100/EC100_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS100",
-        "n": [
-            "sylb/s1-s2/CS100",
-            "n/s1-s2/cs100/CS100_M1",
-            "n/s1-s2/cs100/CS100_M2",
-            "n/s1-s2/cs100/CS100_M3",
-            "n/s1-s2/cs100/CS100_M4",
-            "n/s1-s2/cs100/CS100_M5"
-        ],
-        "qp": [
-            "q/s1-s2/cs100/CS100_2017_MAY",
-            "q/s1-s2/cs100/CS100_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EE100",
-        "n": [
-            "sylb/s1-s2/EE100"
-        ],
-        "qp": [
-            "q/s1-s2/ee100/EE100_2016_JAN",
-            "q/s1-s2/ee100/EE100_2016_MAY",
-            "q/s1-s2/ee100/EE100_2016_JUL",
-            "q/s1-s2/ee100/EE100_2016_SEP",
-            "q/s1-s2/ee100/EE100_2017_JAN",
-            "q/s1-s2/ee100/EE100_2017_JUN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "ME100",
-        "n": [
-            "sylb/s1-s2/ME100"
-        ],
-        "qp": [
-            "q/s1-s2/me100/ME100_2016_JAN",
-            "q/s1-s2/me100/ME100_2016_MAY",
-            "q/s1-s2/me100/ME100_2016_JUL",
-            "q/s1-s2/me100/ME100_2016_SEP",
-            "q/s1-s2/me100/ME100_2017_JAN",
-            "q/s1-s2/me100/ME100_2017_JUN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CE100",
-        "n": [
-            "sylb/s1-s2/CE100"
-        ],
-        "qp": [
-            "q/s1-s2/ce100/CE100_2016_JAN",
-            "q/s1-s2/ce100/CE100_2016_MAY",
-            "q/s1-s2/ce100/CE100_2016_JUL",
-            "q/s1-s2/ce100/CE100_2016_SEP",
-            "q/s1-s2/ce100/CE100_2017_JAN",
-            "q/s1-s2/ce100/CE100_2017_JUN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "MA201",
-        "n": [
-            "sylb/cse/s3/MA201",
-            "n/cse/s3/ma201/MA201_M1",
-            "n/cse/s3/ma201/MA201_M2",
-            "n/cse/s3/ma201/MA201_M3",
-            "n/cse/s3/ma201/MA201_M4",
-            "n/cse/s3/ma201/MA201_M5",
-            "n/cse/s3/ma201/MA201_M6"
-        ],
-        "qp": [
-            "q/cse/s3/ma201/MA201_2016_DEC",
-            "q/cse/s3/ma201/MA201_2017_MAR",
-            "q/cse/s3/ma201/MA201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "MA102",
-        "n": [
-            "sylb/s1-s2/MA102",
-            "n/s1-s2/ma102/MA102_M1",
-            "n/s1-s2/ma102/MA102_M2",
-            "n/s1-s2/ma102/MA102_M3",
-            "n/s1-s2/ma102/MA102_M4",
-            "n/s1-s2/ma102/MA102_M5",
-            "n/s1-s2/ma102/MA102_M6"
-
-        ],
-        "qp": [
-            "q/s1-s2/ma102/MA102_2016_MAY",
-            "q/s1-s2/ma102/MA102_2016_AUG",
-            "q/s1-s2/ma102/MA102_2016_JUL",
-            "q/s1-s2/ma102/MA102_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "HS200",
-        "n": [
-            "sylb/cse/s4/HS200",
-            "n/cse/s4/hs200/HS200_M1",
-            "n/cse/s4/hs200/HS200_M2",
-            "n/cse/s4/hs200/HS200_M3",
-            "n/cse/s4/hs200/HS200_M4",
-            "n/cse/s4/hs200/HS200_M5",
-            "n/cse/s4/hs200/HS200_M6"
-        ],
-        "qp": [
-            "q/cse/s3/hs200/HS200_2017_JAN",
-            "q/cse/s3/hs200/HS200_2017_MAY",
-            "q/cse/s3/hs200/HS200_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "HS210",
-        "n": [
-            "sylb/cse/s3/HS210",
-            "n/cse/s3/hs210/HS210_M1",
-            "n/cse/s3/hs210/HS210_M2",
-            "n/cse/s3/hs210/HS210_M3",
-            "n/cse/s3/hs210/HS210_M4",
-            "n/cse/s3/hs210/HS210_M5"
-        ],
-        "qp": [
-            "q/cse/s3/hs210/HS210_2017_JAN",
-            "q/cse/s3/hs210/HS210_2017_MAY"
-        ],
-        "t": []
-    },
-    {
-        "sub": "HS300",
-        "n": [
-            "sylb/cse/s6/HS300",
-            "n/cse/s6/hs300/HS300_M1",
-            "n/cse/s6/hs300/HS300_M2",
-            "n/cse/s6/hs300/HS300_M3",
-            "n/cse/s6/hs300/HS300_M4",
-            "n/cse/s6/hs300/HS300_M5",
-            "n/cse/s6/hs300/HS300_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS201",
-        "n": [
-            "sylb/cse/s3/CS201"
-        ],
-        "qp": [
-            "q/cse/s3/cs201/CS201_2017_JAN",
-            "q/cse/s3/cs201/CS201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS203",
-        "n": [
-            "sylb/cse/s3/CS203"
-        ],
-        "qp": [
-            "q/cse/s3/cs203/CS203_2017_JAN",
-            "q/cse/s3/cs203/CS203_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS205",
-        "n": [
-            "sylb/cse/s3/CS205",
-            "n/cse/s3/cs205/CS205_M1",
-            "n/cse/s3/cs205/CS205_M2",
-            "n/cse/s3/cs205/CS205_M3",
-            "n/cse/s3/cs205/CS205_M4",
-            "n/cse/s3/cs205/CS205_M5",
-            "n/cse/s3/cs205/CS205_M6"
-        ],
-        "qp": [
-            "q/cse/s3/cs205/CS205_2017_JAN",
-            "q/cse/s3/cs205/CS205_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS207",
-        "n": [
-            "sylb/cse/s3/CS207",
-            "n/cse/s3/cs207/CS207_M1",
-            "n/cse/s3/cs207/CS207_M2",
-            "n/cse/s3/cs207/CS207_M3",
-            "n/cse/s3/cs207/CS207_M4",
-            "n/cse/s3/cs207/CS207_M5",
-            "n/cse/s3/cs207/CS207_M6"
-        ],
-        "qp": [
-            "q/cse/s3/cs207/CS207_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "MA202",
-        "n": [
-            "sylb/cse/s4/MA202",
-            "n/cse/s4/ma202/MA202_M1",
-            "n/cse/s4/ma202/MA202_M2",
-            "n/cse/s4/ma202/MA202_M3",
-            "n/cse/s4/ma202/MA202_M4",
-            "n/cse/s4/ma202/MA202_M5",
-            "n/cse/s4/ma202/MA202_M6"
-        ],
-        "qp": [
-            "q/cse/s4/ma202/MA202_2017_MAY",
-            "q/cse/s4/ma202/MA202_2017_JUL"
-        ],
-        "t": ["t/cse/s4/ma202/Advanced_engineering_mathematics"]
-    },
-    {
-        "sub": "CS202",
-        "n": [
-            "sylb/cse/s4/CS202",
-            "n/cse/s4/cs202/CS202_M1",
-            "n/cse/s4/cs202/CS202_M2",
-            "n/cse/s4/cs202/CS202_M3",
-            "n/cse/s4/cs202/CS202_M4",
-            "n/cse/s4/cs202/CS202_M5",
-            "n/cse/s4/cs202/CS202_M6"
-        ],
-        "qp": [
-            "q/cse/s4/cs202/CS202_2017_MAY",
-            "q/cse/s4/cs202/CS202_2017_JUL"
-        ],
-        "t": ["t/cse/s4/cs202/Computer_Organization",
-            "t/cse/s4/cs202/Digital_Logic_&_Computer_Design"
-        ]
-    },
-    {
-        "sub": "CS204",
-        "n": [
-            "sylb/cse/s4/CS204",
-            "n/cse/s4/cs204/CS204_M1",
-            "n/cse/s4/cs204/CS204_M2",
-            "n/cse/s4/cs204/CS204_M3",
-            "n/cse/s4/cs204/CS204_M4",
-            "n/cse/s4/cs204/CS204_M5",
-            "n/cse/s4/cs204/CS204_M6"
-        ],
-        "qp": [
-            "q/cse/s4/cs204/CS204_2017_JUN",
-            "q/cse/s4/cs204/CS204_2017_JUL"
-        ],
-        "t": ["t/cse/s4/cs204/Operating_System_Concepts"]
-    },
-    {
-        "sub": "CS206",
-        "n": [
-            "sylb/cse/s4/CS206",
-            "n/cse/s4/cs206/CS206_M1",
-            "n/cse/s4/cs206/CS206_M2",
-            "n/cse/s4/cs206/CS206_M3",
-            "n/cse/s4/cs206/CS206_M4",
-            "n/cse/s4/cs206/CS206_M5",
-            "n/cse/s4/cs206/CS206_M6"
-        ],
-        "qp": [
-            "q/cse/s4/cs206/CS206_2017_JUN",
-            "q/cse/s4/cs206/CS206_2017_JUL"
-        ],
-        "t": ["t/cse/s4/cs206/Java_The_Complete_Reference"]
-    },
-    {
-        "sub": "CS208",
-        "n": [
-            "sylb/cse/s4/CS208",
-            "n/cse/s4/cs208/CS208_M1",
-            "n/cse/s4/cs208/CS208_M2",
-            "n/cse/s4/cs208/CS208_M3",
-            "n/cse/s4/cs208/CS208_M4",
-            "n/cse/s4/cs208/CS208_M5",
-            "n/cse/s4/cs208/CS208_M6"
-        ],
-        "qp": [
-            "q/cse/s4/cs208/CS208_2017_JUN",
-            "q/cse/s4/cs208/CS208_2017_JUL"
-        ],
-        "t": ["t/cse/s4/cs208/Fundamentals_of_Database_Systems"]
-    },
-    {
-        "sub": "CS301",
-        "n": [
-            "sylb/cse/s5/CS301",
-            "n/cse/s5/cs301/CS301_M1",
-            "n/cse/s5/cs301/CS301_M2",
-            "n/cse/s5/cs301/CS301_M3",
-            "n/cse/s5/cs301/CS301_M4"
-        ],
-        "qp": [
-            "q/cse/s5/cs301/CS301_Model_1",
-            "q/cse/s5/cs301/CS301_Model_2",
-            "q/cse/s5/cs301/CS301_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS303",
-        "n": [
-            "sylb/cse/s5/CS303",
-            "n/cse/s5/cs303/CS303_M1",
-            "n/cse/s5/cs303/CS303_M2",
-            "n/cse/s5/cs303/CS303_M3",
-            "n/cse/s5/cs303/CS303_M4",
-            "n/cse/s5/cs303/CS303_M5",
-            "n/cse/s5/cs303/CS303_M6"
-        ],
-        "qp": [
-            "q/cse/s5/cs303/CS303_Model_1",
-            "q/cse/s5/cs303/CS303_Model_2",
-            "q/cse/s5/cs303/CS303_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS305",
-        "n": [
-            "sylb/cse/s5/CS305",
-            "n/cse/s5/cs305/CS305_M1",
-            "n/cse/s5/cs305/CS305_M2",
-            "n/cse/s5/cs305/CS305_M3",
-            "n/cse/s5/cs305/CS305_M4",
-            "n/cse/s5/cs305/CS305_M5",
-            "n/cse/s5/cs305/CS305_M6"
-        ],
-        "qp": [
-            "q/cse/s5/cs305/CS305_Model_1",
-            "q/cse/s5/cs305/CS305_Model_2",
-            "q/cse/s5/cs305/CS305_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS307",
-        "n": [
-            "sylb/cse/s5/CS307",
-            "n/cse/s5/cs307/CS307_M1",
-            "n/cse/s5/cs307/CS307_M2",
-            "n/cse/s5/cs307/CS307_M3",
-            "n/cse/s5/cs307/CS307_M4",
-            "n/cse/s5/cs307/CS307_M5",
-            "n/cse/s5/cs307/CS307_M6"
-        ],
-        "qp": [
-            "q/cse/s5/cs307/CS307_Model_1",
-            "q/cse/s5/cs307/CS307_Model_2",
-            "q/cse/s5/cs307/CS307_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS309",
-        "n": [
-            "sylb/cse/s5/CS309",
-            "n/cse/s5/cs309/CS309_M1",
-            "n/cse/s5/cs309/CS309_M2",
-            "n/cse/s5/cs309/CS309_M3",
-            "n/cse/s5/cs309/CS309_M4",
-            "n/cse/s5/cs309/CS309_M5",
-            "n/cse/s5/cs309/CS309_M6"
-        ],
-        "qp": [
-            "q/cse/s5/cs309/CS309_Model_1",
-            "q/cse/s5/cs309/CS309_Model_2",
-            "q/cse/s5/cs309/CS309_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS361",
-        "n": [
-            "sylb/cse/s5/CS361",
-            "n/cse/s5/cs361/CS361_M1",
-            "n/cse/s5/cs361/CS361_M2",
-            "n/cse/s5/cs361/CS361_M3",
-            "n/cse/s5/cs361/CS361_M4",
-            "n/cse/s5/cs361/CS361_M5",
-            "n/cse/s5/cs361/CS361_M6"
-        ],
-        "qp": [
-            "q/cse/s5/cs361/CS361_Model_1",
-            "q/cse/s5/cs361/CS361_Model_2",
-            "q/cse/s5/cs361/CS361_Model_3"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CS302",
-        "n": [
-            "sylb/cse/s6/CS302",
-            "n/cse/s6/cs302/CS302_M1",
-            "n/cse/s6/cs302/CS302_M2",
-            "n/cse/s6/cs302/CS302_M3",
-            "n/cse/s6/cs302/CS302_M4",
-            "n/cse/s6/cs302/CS302_M5",
-            "n/cse/s6/cs302/CS302_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/cse/s6/cs302/Computer_Algorithms",
-            "t/cse/s6/cs302/Introduction_to_Algorithms"
-        ]
-    },
-    {
-        "sub": "CS304",
-        "n": [
-            "sylb/cse/s6/CS304",
-            "n/cse/s6/cs304/CS304_M1",
-            "n/cse/s6/cs304/CS304_M2",
-            "n/cse/s6/cs304/CS304_M3",
-            "n/cse/s6/cs304/CS304_M4",
-            "n/cse/s6/cs304/CS304_M5",
-            "n/cse/s6/cs304/CS304_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/cse/s6/cs304/Compilers_Principles_Techniques_&_Tools",
-            "t/cse/s6/cs304/System_Programming_&_Operating_Systems"
-        ]
-    },
-    {
-        "sub": "CS306",
-        "n": [
-            "sylb/cse/s6/CS306",
-            "n/cse/s6/cs306/CS306_M1",
-            "n/cse/s6/cs306/CS306_M2",
-            "n/cse/s6/cs306/CS306_M3",
-            "n/cse/s6/cs306/CS306_M4",
-            "n/cse/s6/cs306/CS306_M5",
-            "n/cse/s6/cs306/CS306_M6"
-        ],
-        "qp": [],
-        "t": ["t/cse/s6/cs306/Computer_Networks",
-            "t/cse/s6/cs306/Computer_Networks-A_Systems_Approach",
-            "t/cse/s6/cs306/Data_Communications_&_Networking"
-        ]
-    },
-    {
-        "sub": "CS308",
-        "n": [
-            "sylb/cse/s6/CS308",
-            "n/cse/s6/cs308/CS308_M1",
-            "n/cse/s6/cs308/CS308_M2",
-            "n/cse/s6/cs308/CS308_M3",
-            "n/cse/s6/cs308/CS308_M4",
-            "n/cse/s6/cs308/CS308_M5",
-            "n/cse/s6/cs308/CS308_M6"
-        ],
-        "qp": [],
-        "t": ["t/cse/s6/cs308/Software_Engineering",
-            "t/cse/s6/cs308/Software_Engineering_A_practitioners_approach",
-            "t/cse/s6/cs308/Software_Project_Management"
-        ]
-    },
-    {
-        "sub": "CS362",
-        "n": [
-            "sylb/cse/s6/CS362",
-            "n/cse/s6/cs362/CS362_M1",
-            "n/cse/s6/cs362/CS362_M2",
-            "n/cse/s6/cs362/CS362_M3",
-            "n/cse/s6/cs362/CS362_M4",
-            "n/cse/s6/cs362/CS362_M5",
-            "n/cse/s6/cs362/CS362_M6"
-        ],
-        "qp": [],
-        "t": ["t/cse/s6/cs362/Computer_vision_&_Applications",
-            "t/cse/s6/cs362/Computer_vision_A_Modern_Approach"
-        ]
-    },
-    {
-        "sub": "CS364",
-        "n": [],
-        "qp": [],
-        "t": ["t/cse/s6/cs364/Fundamentals_of_5G_Mobile_Networks",
-            "t/cse/s6/cs364/Mobile_Communications",
-            "t/cse/s6/cs364/Mobile_Computing_Technology_-_Application_&_Service_Creation"
-        ]
-    },
-    {
-        "sub": "CS366",
-        "n": [],
-        "qp": [],
-        "t": ["t/cse/s6/cs366/Speech_&_Language_Processing",
-            "t/cse/s6/cs366/Natural_Language_Understanding"
-        ]
-    },
-    {
-        "sub": "CS368",
-        "n": [
-            "sylb/cse/s6/CS368",
-            "n/cse/s6/cs368/CS368_M1",
-            "n/cse/s6/cs368/CS368_M2",
-            "n/cse/s6/cs368/CS368_M3",
-            "n/cse/s6/cs368/CS368_M4",
-            "n/cse/s6/cs368/CS368_M5",
-            "n/cse/s6/cs368/CS368_M6"
-        ],
-        "qp": [],
-        "t": ["t/cse/s6/cs368/Programming_the_World_Wide_Web",
-            "t/cse/s6/cs368/Internet_&_World_Wide_Web_How_To_Program"
-        ]
-    },
-    {
-        "sub": "CS372",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS401",
-        "n": [],
-        "qp": [],
-        "t": ["t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
-            "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
-        ]
-    },
-    {
-        "sub": "CS403",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS405",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS409",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS461",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS463",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS465",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS467",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS469",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS402",
-        "n": ["sylb/cse/s8/CS402"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS404",
-        "n": ["sylb/cse/s8/CS404"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS462",
-        "n": ["sylb/cse/s8/CS462"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS464",
-        "n": ["sylb/cse/s8/CS464"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS466",
-        "n": ["sylb/cse/s8/CS466"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS468",
-        "n": ["sylb/cse/s8/CS468"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CS472",
-        "n": ["sylb/cse/s8/CS472"],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE201",
-        "n": [
-            "sylb/ce/s3/CE201",
-            "n/ce/s3/"
-        ],
-        "qp": [
-            "q/ce/s3/ce201/CE201_2017_JAN",
-            "q/ce/s3/ce201/CE201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CE203",
-        "n": [
-            "sylb/ce/s3/CE203",
-            "n/ce/s3/ce203/CE203_M1",
-            "n/ce/s3/ce203/CE203_M2",
-            "n/ce/s3/ce203/CE203_M3",
-            "n/ce/s3/ce203/CE203_M4",
-            "n/ce/s3/ce203/CE203_M5",
-            "n/ce/s3/ce203/CE203_M6"
-        ],
-        "qp": [
-            "q/ce/s3/ce203/CE203_2017_JAN",
-            "q/ce/s3/ce203/CE203_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CE205",
-        "n": [
-            "sylb/ce/s3/CE205",
-            "n/ce/s3/ce205/CE205_M1",
-            "n/ce/s3/ce205/CE205_M2",
-            "n/ce/s3/ce205/CE205_M3",
-            "n/ce/s3/ce205/CE205_M4",
-            "n/ce/s3/ce205/CE205_M5",
-            "n/ce/s3/ce205/CE205_M6"
-        ],
-        "qp": [
-            "q/ce/s3/ce205/CE205_2017_JAN",
-            "q/ce/s3/ce205/CE205_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CE207",
-        "n": [
-            "sylb/ce/s3/CE207",
-            "n/ce/s3/ce207/CE207_M1",
-            "n/ce/s3/ce207/CE207_M2",
-            "n/ce/s3/ce207/CE207_M3",
-            "n/ce/s3/ce207/CE207_M4",
-            "n/ce/s3/ce207/CE207_M5",
-            "n/ce/s3/ce207/CE207_M6"
-        ],
-        "qp": [
-            "q/ce/s3/ce207/CE207_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "CE202",
-        "n": [
-            "sylb/ce/s4/CE202",
-            "n/ce/s4/ce202/CE202_M1",
-            "n/ce/s4/ce202/CE202_M2",
-            "n/ce/s4/ce202/CE202_M3",
-            "n/ce/s4/ce202/CE202_M4",
-            "n/ce/s4/ce202/CE202_M5",
-            "n/ce/s4/ce202/CE202_M6"
-        ],
-        "qp": [
-            "q/ce/s4/ce202/CE202_2017_MAY",
-            "q/ce/s4/ce202/CE202_2017_JUL"
-        ],
-        "t": ["t/ce/s4/ce202/Fundamentals_of_Structural_Analysis",
-            "t/ce/s4/ce202/Mechanics_of_materials"
-        ]
-    },
-    {
-        "sub": "CE204",
-        "n": [
-            "sylb/ce/s4/CE204",
-            "n/ce/s4/ce204/CE204_M1",
-            "n/ce/s4/ce204/CE204_M2",
-            "n/ce/s4/ce204/CE204_M3",
-            "n/ce/s4/ce204/CE204_M6"
-        ],
-        "qp": [
-            "q/ce/s4/ce204/CE204_2017_JUN",
-            "q/ce/s4/ce204/CE204_2017_JUL"
-        ],
-        "t": ["t/ce/s4/ce204/Building_construction",
-            "t/ce/s4/ce204/Concreate_technology_theory_and_practice",
-            "t/ce/s4/ce204/Engineering_Materials"
-        ]
-    },
-    {
-        "sub": "CE206",
-        "n": [
-            "sylb/ce/s4/CE206",
-            "n/ce/s4/ce206/CE206_M2",
-            "n/ce/s4/ce206/CE206_M3",
-            "n/ce/s4/ce206/CE206_M4",
-            "n/ce/s4/ce206/CE206_M5",
-            "n/ce/s4/ce206/CE206_M6"
-        ],
-        "qp": [
-            "q/ce/s4/ce206/CE206_2017_JUN",
-            "q/ce/s4/ce206/CE206_2017_JUL"
-        ],
-        "t": ["t/ce/s4/ce206/Hydraulics_&_Fluid_Mechanics"]
-    },
-    {
-        "sub": "CE208",
-        "n": [
-            "sylb/ce/s4/CE208",
-            "n/ce/s4/ce208/CE208_M1",
-            "n/ce/s4/ce208/CE208_M2",
-            "n/ce/s4/ce208/CE208_M3",
-            "n/ce/s4/ce208/CE208_M4",
-            "n/ce/s4/ce208/CE208_M5",
-            "n/ce/s4/ce208/CE208_M6"
-        ],
-        "qp": [
-            "q/ce/s4/ce208/CE208_2017_JUN",
-            "q/ce/s4/ce208/CE208_2017_JUL"
-        ],
-        "t": ["t/ce/s4/ce208/Principles_of_Geotechnical_Engineering"]
-    },
-    {
-        "sub": "CE301",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE303",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE305",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE307",
-        "n": [
-            "sylb/cse/s6/CS307"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE309",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE361",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE365",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE373",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE302",
-        "n": [
-            "sylb/ce/s6/CE302",
-            "n/ce/s6/ce302/CE302_M1",
-            "n/ce/s6/ce302/CE302_M2",
-            "n/ce/s6/ce302/CE302_M3",
-            "n/ce/s6/ce302/CE302_M4",
-            "n/ce/s6/ce302/CE302_M5"
-        ],
-        "qp": [],
-        "t": ["t/ce/s6/ce302/Irriagtion_Engineering_Hydraulic_Structures"]
-    },
-    {
-        "sub": "CE304",
-        "n": [
-            "sylb/ce/s6/CE304",
-            "n/ce/s6/ce304/CE304_M1",
-            "n/ce/s6/ce304/CE304_M2",
-            "n/ce/s6/ce304/CE304_M3",
-            "n/ce/s6/ce304/CE304_M4",
-            "n/ce/s6/ce304/CE304_M6"
-        ],
-        "qp": [],
-        "t": ["t/ce/s6/ce304/Prestressed_Concrete",
-            "t/ce/s6/ce304/Reinforced_Concrete_Design"
-        ]
-    },
-    {
-        "sub": "CE306",
-        "n": [
-            "sylb/ce/s6/CE306",
-            "n/ce/s6/ce306/CE306_M1",
-            "n/ce/s6/ce306/CE306_M2",
-            "n/ce/s6/ce306/CE306_M3",
-            "n/ce/s6/ce306/CE306_M4",
-            "n/ce/s6/ce306/CE306_M5",
-            "n/ce/s6/ce306/CE306_M6"
-        ],
-        "qp": [],
-        "t": ["t/ce/s6/ce306/Applied_Numerical_Analysis",
-            "t/ce/s6/ce306/C++_Programming",
-            "t/ce/s6/ce306/Object_Oriented_programming_with_C++"
-        ]
-    },
-    {
-        "sub": "CE308",
-        "n": [
-            "sylb/ce/s6/CE308",
-            "n/ce/s6/ce308/CE308_M1",
-            "n/ce/s6/ce308/CE308_M2",
-            "n/ce/s6/ce308/CE308_M3",
-            "n/ce/s6/ce308/CE308_M4",
-            "n/ce/s6/ce308/CE308_M5",
-            "n/ce/s6/ce308/CE308_M6"
-        ],
-        "qp": [],
-        "t": ["t/ce/s6/ce308/Highway_Engineering"]
-    },
-    {
-        "sub": "CE362",
-        "n": [
-            "sylb/ce/s6/CE362",
-            "n/ce/s6/ce362/CE362_M1",
-            "n/ce/s6/ce362/CE362_M2",
-            "n/ce/s6/ce362/CE362_M3",
-            "n/ce/s6/ce362/CE362_M4",
-            "n/ce/s6/ce362/CE362_M5",
-            "n/ce/s6/ce362/CE362_M6"
-        ],
-        "qp": [],
-        "t": ["t/ce/s6/ce362/Ground_Improvement_Techniques"]
-    },
-    {
-        "sub": "CE364",
-        "n": [],
-        "qp": [],
-        "t": ["t/ce/s6/ce364/Advanced_Foundation_Engineering"]
-    },
-    {
-        "sub": "CE366",
-        "n": [],
-        "qp": [],
-        "t": ["t/ce/s6/ce366/Highway_Engineering",
-            "t/ce/s6/ce366/Traffic_Flow_Theory"
-        ]
-    },
-    {
-        "sub": "CE368",
-        "n": [],
-        "qp": [],
-        "t": ["t/ce/s6/ce368/Prestressed_concrete"]
-    },
-    {
-        "sub": "CE372",
-        "n": [],
-        "qp": [],
-        "t": ["t/ce/s6/ce372/Engineering_Hydrology",
-            "t/ce/s6/ce372/Hydrology"
-        ]
-    },
-    {
-        "sub": "CE374",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE401",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE403",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE405",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE407",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE409",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE461",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE463",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE465",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE467",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE469",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE471",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE473",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE451",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE431",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE402",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE404",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE462",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE464",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE466",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE468",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE472",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "CE474",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE201",
-        "n": [],
-        "qp": [
-            "q/eee/s3/ee201/EE201_2017_JAN",
-            "q/eee/s3/ee201/EE201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EE203",
-        "n": [],
-        "qp": [
-            "q/eee/s3/ee203/EE203_2017_JAN",
-            "q/eee/s3/ee203/EE203_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EE205",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE207",
-        "n": [],
-        "qp": [
-            "q/eee/s3/ee207/EE207_2017_JAN",
-            "q/eee/s3/ee207/EE207_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EE202",
-        "n": [
-            "sylb/eee/s4/EE202",
-            "n/eee/s4/ee202/EE202_M1",
-            "n/eee/s4/ee202/EE202_M2",
-            "n/eee/s4/ee202/EE202_M3",
-            "n/eee/s4/ee202/EE202_M4",
-            "n/eee/s4/ee202/EE202_M5",
-            "n/eee/s4/ee202/EE202_M6"
-        ],
-        "qp": [
-            "q/eee/s4/ee202/EE202_2017_MAY",
-            "q/eee/s4/ee202/EE202_2017_JUL"
-        ],
-        "t": ["t/eee/s4/ee202/Electrical_Machinery",
-            "t/eee/s4/ee202/Theory_of_AC_Machines"
-        ]
-    },
-    {
-        "sub": "EE204",
-        "n": [
-            "sylb/eee/s4/EE204",
-            "n/eee/s4/ee204/EE204_M1",
-            "n/eee/s4/ee204/EE204_M2",
-            "n/eee/s4/ee204/EE204_M3",
-            "n/eee/s4/ee204/EE204_M4",
-            "n/eee/s4/ee204/EE204_M5",
-            "n/eee/s4/ee204/EE204_M6"
-        ],
-        "qp": [
-            "q/eee/s4/ee204/EE204_2017_JUN",
-            "q/eee/s4/ee204/EE204_2017_JUL"
-        ],
-        "t": ["t/eee/s4/ee204/Digital_Fundamentals",
-            "t/eee/s4/ee204/Fundamentals_of_Logic_Design"
-        ]
-    },
-    {
-        "sub": "EE206",
-        "n": [
-            "sylb/eee/s4/EE206",
-            "n/eee/s4/ee206/EE206_M1",
-            "n/eee/s4/ee206/EE206_M2",
-            "n/eee/s4/ee206/EE206_M3",
-            "n/eee/s4/ee206/EE206_M4",
-            "n/eee/s4/ee206/EE206_M5",
-            "n/eee/s4/ee206/EE206_M6"
-        ],
-        "qp": [
-            "q/eee/s4/ee206/EE206_2017_JUN",
-            "q/eee/s4/ee206/EE206_2017_JUL"
-        ],
-        "t": ["t/eee/s4/ee206/Electrical_enginnering_materials"]
-    },
-    {
-        "sub": "EE208",
-        "n": [
-            "sylb/eee/s4/EE208",
-            "n/eee/s4/ee208/EE208_M1",
-            "n/eee/s4/ee208/EE208_M2",
-            "n/eee/s4/ee208/EE208_M3",
-            "n/eee/s4/ee208/EE208_M4",
-            "n/eee/s4/ee208/EE208_M5",
-            "n/eee/s4/ee208/EE208_M6"
-        ],
-        "qp": [
-            "q/eee/s4/ee208/EE208_2017_JUN",
-            "q/eee/s4/ee208/EE208_2017_JUL"
-        ],
-        "t": ["t/eee/s4/ee208/A_course_in_Electrical_&_Electronic_Measurements_&_instrumentation"]
-    },
-    {
-        "sub": "EE301",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE303",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE305",
-        "n": [
-            "sylb/eee/s5/EE305",
-            "n/eee/s5/ee305/EE305_M1",
-            "n/eee/s5/ee305/EE305_M2",
-            "n/eee/s5/ee305/EE305_M3",
-            "n/eee/s5/ee305/EE305_M4",
-            "n/eee/s5/ee305/EE305_M5",
-            "n/eee/s5/ee305/EE305_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE307",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE309",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE367",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE302",
-        "n": [
-            "sylb/eee/s6/EE302",
-            "n/eee/s6/ee302/EE302_M1",
-            "n/eee/s6/ee302/EE302_M2",
-            "n/eee/s6/ee302/EE302_M3",
-            "n/eee/s6/ee302/EE302_M4",
-            "n/eee/s6/ee302/EE302_M5",
-            "n/eee/s6/ee302/EE302_M6"
-        ],
-        "qp": [],
-        "t": ["t/eee/s6/ee302/Elements_of_Electromagnetics",
-            "t/eee/s6/ee302/Elements_of_Engineering_Electromagnetics"
-        ]
-    },
-    {
-        "sub": "EE304",
-        "n": [
-            "sylb/eee/s6/EE304",
-            "n/eee/s6/ee304/EE304_M1",
-            "n/eee/s6/ee304/EE304_M2",
-            "n/eee/s6/ee304/EE304_M3",
-            "n/eee/s6/ee304/EE304_M4",
-            "n/eee/s6/ee304/EE304_M5",
-            "n/eee/s6/ee304/EE304_M6"
-        ],
-        "qp": [],
-        "t": ["t/eee/s6/ee304/Analysis_&_Synthesis_of_Sampled_Data_Systems",
-            "t/eee/s6/ee304/Control_System_Engineering",
-            "t/eee/s6/ee304/Control_Systems_Engineering_nise",
-            "t/eee/s6/ee304/modern_control_engineering",
-            "t/eee/s6/ee304/Nonlinear_Systems"
-        ]
-    },
-    {
-        "sub": "EE306",
-        "n": [
-            "sylb/eee/s6/EE306",
-            "n/eee/s6/ee306/EE306_M1",
-            "n/eee/s6/ee306/EE306_M2",
-            "n/eee/s6/ee306/EE306_M3",
-            "n/eee/s6/ee306/EE306_M4",
-            "n/eee/s6/ee306/EE306_M5",
-            "n/eee/s6/ee306/EE306_M6"
-        ],
-        "qp": [],
-        "t": ["t/eee/s6/ee306/Electrical_Power_Systems",
-            "t/eee/s6/ee306/Modern_Power_System_Analysis"
-        ]
-    },
-    {
-        "sub": "EE308",
-        "n": [
-            "sylb/eee/s6/EE308",
-            "n/eee/s6/ee308/EE308_M1",
-            "n/eee/s6/ee308/EE308_M2",
-            "n/eee/s6/ee308/EE308_M3",
-            "n/eee/s6/ee308/EE308_M4",
-
-            "n/ee/s6/ee308/EE308_M6"
-        ],
-        "qp": [],
-        "t": ["t/eee/s6/ee308/Modern_power_electronics_&_AC_drives"]
-    },
-    {
-        "sub": "EE362",
-        "n": [],
-        "qp": [],
-        "t": ["t/eee/s6/ee362/Algorith_&_Data_Structures",
-            "t/eee/s6/ee362/Data_structures_&_Algorithms",
-            "t/eee/s6/ee362/Fundamentals_of_computer_algorithms",
-            "t/eee/s6/ee362/The_Art_of_Computer_Programming"
-        ]
-    },
-    {
-        "sub": "EE364",
-        "n": [],
-        "qp": [],
-        "t": ["t/eee/s6/ee364/Power_Electronics_Circuits_Devices_&_Applications",
-            "t/eee/s6/ee364/Power_Electronics_Converters_Application_&_Design"
-        ]
-    },
-    {
-        "sub": "EE366",
-        "n": [],
-        "qp": [],
-        "t": ["t/eee/s6/ee366/Light_&_Engineering"]
-    },
-    {
-        "sub": "EE368",
-        "n": [
-            "sylb/eee/s6/EE368",
-            "n/eee/s6/ee368/EE368_M1",
-            "n/eee/s6/ee368/EE368_M2",
-            "n/eee/s6/ee368/EE368_M3",
-            "n/eee/s6/ee368/EE368_M4",
-            "n/eee/s6/ee368/EE368_M5",
-            "n/eee/s6/ee368/EE368_M6"
-        ],
-        "qp": [],
-        "t": ["t/eee/s6/ee368/Neural_Networks_Algorithms_Applications_Programming_Techniques",
-            "t/eee/s6/ee368/Neuro_Fuzzy_&_Soft_Computing"
-        ]
-    },
-    {
-        "sub": "EE372",
-        "n": [],
-        "qp": [],
-        "t": ["t/eee/s6/ee372/Medical_Instrumentation_Application_Design"]
-    },
-    {
-        "sub": "EE401",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE403",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE405",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE407",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE409",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE461",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE463",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE465",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE467",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE469",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE451",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE402",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE462",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE464",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE466",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE468",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE472",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE474",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC201",
-        "n": [
-            "sylb/ece/s3/EC201",
-            "n/ece/s3/ec201/EC201_M1",
-            "n/ece/s3/ec201/EC201_M2",
-            "n/ece/s3/ec201/EC201_M3",
-            "n/ece/s3/ec201/EC201_M4",
-            "n/ece/s3/ec201/EC201_M5",
-            "n/ece/s3/ec201/EC201_M6"
-        ],
-        "qp": [
-            "q/ece/s3/ec201/EC201_2017_JAN",
-            "q/ece/s3/ec201/EC201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EC203",
-        "n": [
-            "sylb/ece/s3/EC203",
-            "n/ece/s3/ec203/EC203_M1",
-            "n/ece/s3/ec203/EC203_M2",
-            "n/ece/s3/ec203/EC203_M3",
-            "n/ece/s3/ec203/EC203_M4",
-            "n/ece/s3/ec203/EC203_M5",
-            "n/ece/s3/ec203/EC203_M6"
-        ],
-        "qp": [
-            "q/ece/s3/ec203/EC203_2017_JAN",
-            "q/ece/s3/ec203/EC203_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EC205",
-        "n": [
-            "sylb/ece/s3/EC205",
-            "n/ece/s3/ec205/EC205_M1",
-            "n/ece/s3/ec205/EC205_M2",
-            "n/ece/s3/ec205/EC205_M3",
-            "n/ece/s3/ec205/EC205_M4",
-            "n/ece/s3/ec205/EC205_M5",
-            "n/ece/s3/ec205/EC205_M6"
-        ],
-        "qp": [
-            "q/ece/s3/ec205/EC205_2017_JAN",
-            "q/ece/s3/ec205/EC205_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EC207",
-        "n": [
-            "sylb/ece/s3/EC207",
-            "n/ece/s3/ec207/EC207_M1",
-            "n/ece/s3/ec207/EC207_M2",
-            "n/ece/s3/ec207/EC207_M3",
-            "n/ece/s3/ec207/EC207_M4",
-            "n/ece/s3/ec207/EC207_M5",
-            "n/ece/s3/ec207/EC207_M6"
-        ],
-        "qp": [
-            "q/ece/s3/ec207/EC207_2017_JAN",
-            "q/ece/s3/ec207/EC207_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "MA204",
-        "n": [
-            "sylb/ece/s4/MA204",
-            "n/ece/s4/ma204/MA204_M1",
-            "n/ece/s4/ma204/MA204_M3",
-            "n/ece/s4/ma204/MA204_M5",
-            "n/ece/s4/ma204/MA204_M6"
-        ],
-        "qp": [
-            "q/ece/s4/ma204/MA204_2017_MAY",
-            "q/ece/s4/ma204/MA204_2017_JUL"
-        ],
-        "t": ["t/cse/s4/ma202/Advanced_engineering_mathematics"]
-    },
-    {
-        "sub": "EC202",
-        "n": [
-            "sylb/ece/s4/EC202",
-            "n/ece/s4/ec202/EC202_M1",
-            "n/ece/s4/ec202/EC202_M2",
-            "n/ece/s4/ec202/EC202_M3",
-            "n/ece/s4/ec202/EC202_M4",
-            "n/ece/s4/ec202/EC202_M5",
-            "n/ece/s4/ec202/EC202_M6"
-        ],
-        "qp": [
-            "q/ece/s4/ec202/EC202_2017_MAY",
-            "q/ece/s4/ec202/EC202_2017_JUL"
-        ],
-        "t": ["t/ece/s4/ec202/Signal_&_Systems",
-            "t/ece/s4/ec202/Signals_And_Systems"
-        ]
-    },
-    {
-        "sub": "EC204",
-        "n": [
-            "sylb/ece/s4/EC204",
-            "n/ece/s4/ec204/EC204_M1",
-            "n/ece/s4/ec204/EC204_M2",
-            "n/ece/s4/ec204/EC204_M3",
-            "n/ece/s4/ec204/EC204_M4",
-            "n/ece/s4/ec204/EC204_M5",
-            "n/ece/s4/ec204/EC204_M6"
-        ],
-        "qp": [
-            "q/ece/s4/ec204/EC204_2017_JUN",
-            "q/ece/s4/ec204/EC204_2017_JUL"
-        ],
-        "t": ["t/ece/s4/ec204/Operational_Amplifiers_&_Linear_Integrated_Circuits"]
-    },
-    {
-        "sub": "EC206",
-        "n": [
-            "sylb/ece/s4/EC206",
-            "n/ece/s4/ec206/EC206_M1",
-            "n/ece/s4/ec206/EC206_M2",
-            "n/ece/s4/ec206/EC206_M3",
-            "n/ece/s4/ec206/EC206_M4",
-            "n/ece/s4/ec206/EC206_M5",
-            "n/ece/s4/ec206/EC206_M6"
-        ],
-        "qp": [
-            "q/ece/s4/ec206/EC206_2017_JUN",
-            "q/ece/s4/ec206/EC206_2017_JUL"
-        ],
-        "t": ["t/ece/s4/ec206/Computer_Organization_&_Design",
-            "t/ece/s4/ec206/Digital_Design_&_Computer_Architecture"
-        ]
-    },
-    {
-        "sub": "EC208",
-        "n": [
-            "sylb/ece/s4/EC208",
-            "n/ece/s4/ec208/EC208_M1",
-            "n/ece/s4/ec208/EC208_M2",
-            "n/ece/s4/ec208/EC208_M3",
-            "n/ece/s4/ec208/EC208_M4",
-            "n/ece/s4/ec208/EC208_M5",
-            "n/ece/s4/ec208/EC208_M6"
-        ],
-        "qp": [
-            "q/ece/s4/ec208/EC208_2017_JUN",
-            "q/ece/s4/ec208/EC208_2017_JUL"
-        ],
-        "t": ["t/ece/s4/ec208/Communication_Systems",
-            "t/ece/s4/ec208/Electronic_Communication_System"
-        ]
-    },
-    {
-        "sub": "EC301",
-        "n": [
-            "sylb/ece/s5/EC301",
-            "n/ece/s5/ec301/EC301_M1",
-            "n/ece/s5/ec301/EC301_M2",
-            "n/ece/s5/ec301/EC301_M3",
-            "n/ece/s5/ec301/EC301_M4",
-            "n/ece/s5/ec301/EC301_M5",
-            "n/ece/s5/ec301/EC301_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC303",
-        "n": [
-            "sylb/ece/s5/EC303",
-            "n/ece/s5/ec303/EC303_M1",
-            "n/ece/s5/ec303/EC303_M2",
-            "n/ece/s5/ec303/EC303_M3",
-            "n/ece/s5/ec303/EC303_M4",
-            "n/ece/s5/ec303/EC303_M5",
-            "n/ece/s5/ec303/EC303_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC305",
-        "n": [
-            "sylb/ece/s5/EC305"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC307",
-        "n": [
-            "sylb/ece/s5/EC307",
-            "n/ece/s5/ec307/EC307_M1",
-            "n/ece/s5/ec307/EC307_M3",
-            "n/ece/s5/ec307/EC307_M5",
-            "n/ece/s5/ec30/EC307_M6"
-        ],
-        "qp": [
-            "q/ece/s3/ec307/EC307_Model_1"
-        ],
-        "t": []
-    },
-    {
-        "sub": "EC365",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC302",
-        "n": [
-            "sylb/ece/s6/EC302",
-            "n/ece/s6/ec302/EC302_M1",
-            "n/ece/s6/ec302/EC302_M2",
-            "n/ece/s6/ec302/EC302_M3",
-            "n/ece/s6/ec302/EC302_M4"
-        ],
-        "qp": [],
-        "t": ["t/ece/s6/ec302/Digital_Communication",
-            "t/ece/s6/ec302/Communication_Systems"
-        ]
-    },
-    {
-        "sub": "EC304",
-        "n": [
-            "sylb/ece/s6/EC302",
-            "n/ece/s6/ec304/EC304_M1",
-            "n/ece/s6/ec304/EC304_M2",
-            "n/ece/s6/ec304/EC304_M3",
-            "n/ece/s6/ec304/EC304_M4",
-            "n/ece/s6/ec304/EC304_M5",
-            "n/ece/s6/ec304/EC304_M6"
-        ],
-        "qp": [],
-        "t": ["t/ece/s6/ec304/Design_of_Analog_CMOS_Integrated_Circuits"]
-    },
-    {
-        "sub": "EC306",
-        "n": [
-            "sylb/ece/s6/EC306",
-            "n/ece/s6/ec306/EC306_M1",
-            "n/ece/s6/ec306/EC306_M2",
-            "n/ece/s6/ec306/EC306_M3",
-            "n/ece/s6/ec306/EC306_M4",
-            "n/ece/s6/ec306/EC306_M5",
-            "n/ece/s6/ec306/EC306_M6"
-        ],
-        "qp": [],
-        "t": ["t/ece/s6/ec306/Antenna_Theory_and_Design",
-            "t/ece/s6/ec306/Antennas_for_all_Applications"
-        ]
-    },
-    {
-        "sub": "EC308",
-        "n": [
-            "sylb/ece/s6/EC308",
-            "n/ece/s6/ec308/EC308_M1",
-            "n/ece/s6/ec308/EC308_M2",
-            "n/ece/s6/ec308/EC308_M3",
-            "n/ece/s6/ec308/EC308_M4",
-            "n/ece/s6/ec308/EC308_M5",
-            "n/ece/s6/ec308/EC308_M6"
-        ],
-        "qp": [],
-        "t": ["t/ece/s6/ec308/An_Embedded_Software_Primer",
-            "t/ece/s6/ec308/Computers_as_Components_Principles_of_Embedded_Computing_System"
-        ]
-    },
-    {
-        "sub": "EC312",
-        "n": [
-            "sylb/ece/s6/EC312",
-            "n/ece/s6/ec312/EC312_M1",
-            "n/ece/s6/ec312/EC312_M2",
-            "n/ece/s6/ec312/EC312_M3",
-            "n/ece/s6/ec312/EC312_M4",
-            "n/ece/s6/ec312/EC312_M5",
-            "n/ece/s6/ec312/EC312_M6"
-        ],
-        "qp": [],
-        "t": ["t/ece/s6/ec312/Android_Programming",
-            "t/ece/s6/ec312/Object_Oriented_Programming_with_C++_&_JAVA"
-        ]
-    },
-    {
-        "sub": "EC362",
-        "n": [],
-        "qp": [],
-        "t": ["t/ece/s6/ec362/Simulation_of_communication"]
-    },
-    {
-        "sub": "EC366",
-        "n": [],
-        "qp": [],
-        "t": ["t/ece/s6/ec366/Embedded_Systems_Building_Blocks"]
-    },
-    {
-        "sub": "EC368",
-        "n": [],
-        "qp": [],
-        "t": ["t/ece/s6/ec368/Robot_Dynamics_&_Control"]
-    },
-    {
-        "sub": "EC370",
-        "n": [],
-        "qp": [],
-        "t": ["t/ece/s6/ec370/Digital_Image_Processing"]
-    },
-    {
-        "sub": "EC401",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC403",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC405",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC407",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC409",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC461",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC463",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC465",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC467",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC469",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC402",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC404",
-        "n": [
-            "sylb/ece/s8/EC404",
-            "n/ece/S8/ec404/EC404_M1",
-            "n/ece/S8/ec404/EC404_M2",
-            "n/ece/S8/ec404/EC404_M3",
-            "n/ece/S8/ec404/EC404_M4",
-            "n/ece/S8/ec404/EC404_M5",
-            "n/ece/S8/ec404/EC404_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC462",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC464",
-        "n": [
-            "sylb/ece/s8/EC464",
-            "n/ece/S8/ec464/EC464_M1",
-            "n/ece/S8/ec464/EC464_M2",
-            "n/ece/S8/ec464/EC464_M3",
-            "n/ece/S8/ec464/EC464_M4",
-            "n/ece/S8/ec464/EC464_M5",
-            "n/ece/S8/ec464/EC464_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC466",
-        "n": [
-            "sylb/ece/s8/EC466",
-            "n/ece/S8/ec466/EC466_M1",
-            "n/ece/S8/ec466/EC466_M2",
-            "n/ece/S8/ec466/EC466_M3",
-            "n/ece/S8/ec466/EC466_M4",
-            "n/ece/S8/ec466/EC466_M5",
-            "n/ece/S8/ec466/EC466_M6"
-        ],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC468",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC472",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EC474",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME201",
-        "n": [],
-        "qp": [
-            "q/me/s3/me201/ME201_2017_JAN",
-            "q/me/s3/me201/ME201_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "ME203",
-        "n": [],
-        "qp": [
-            "q/me/s3/me203/ME203_2017_JAN",
-            "q/me/s3/me203/ME203_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "ME205",
-        "n": [],
-        "qp": [
-            "q/me/s3/me205/ME205_2017_JAN",
-            "q/me/s3/me205/ME205_2017_JUL"
-        ],
-        "t": []
-    },
-    {
-        "sub": "ME210",
-        "n": [],
-        "qp": [
-            "q/me/s3/me210/ME210_2017_JAN"
-        ],
-        "t": []
-    },
-    {
-        "sub": "ME202",
-        "n": [
-            "sylb/me/s4/ME202",
-            "n/me/s4/me202/ME202_M1",
-            "n/me/s4/me202/ME202_M2",
-            "n/me/s4/me202/ME202_M3",
-            "n/me/s4/me202/ME202_M4",
-            "n/me/s4/me202/ME202_M5",
-            "n/me/s4/me202/ME202_M6"
-        ],
-        "qp": [
-            "q/me/s4/me202/ME202_2017_MAY",
-            "q/me/s4/me202/ME202_2017_JUL"
-        ],
-        "t": ["t/me/s4/me202/Solid_Mechanics",
-            "t/me/s4/me202/Theory_of_Elasticity"
-        ]
-    },
-    {
-        "sub": "ME204",
-        "n": ["sylb/me/s4/ME204",
-            "n/me/s4/me204/ME204_M1",
-            "n/me/s4/me204/ME204_M2",
-            "n/me/s4/me204/ME204_M3",
-            "n/me/s4/me204/ME204_M4",
-            "n/me/s4/me204/ME204_M5"
-        ],
-        "qp": [
-            "q/me/s4/me204/ME204_2017_JUN",
-            "q/me/s4/me204/ME204_2017_JUL"
-        ],
-        "t": ["q/me/s4/me204/ME204_2017_JUN",
-            "q/me/s4/me204/ME204_2017_JUL"
-        ]
-    },
-
-    {
-        "sub": "ME206",
-        "n": ["sylb/me/s4/ME206",
-            "n/me/s4/me206/ME206_M1",
-            "n/me/s4/me206/ME206_M2",
-            "n/me/s4/me206/ME206_M3",
-            "n/me/s4/me206/ME206_M4",
-            "n/me/s4/me206/ME206_M5",
-            "n/me/s4/me206/ME206_M6"
-
-        ],
-        "qp": [
-            "q/me/s4/me206/ME206_2017_JUN",
-            "q/me/s4/me206/ME206_2017_JUL"
-        ],
-        "t": [
-            "t/me/s4/me206/Fluid_Mechanics_and_Hydraulic_Machines",
-            "t/me/s4/me206/Introduction_to_Fluid_Mechanics_&_Fluid_Machines"
-        ]
-    },
-    {
-        "sub": "ME220",
-        "n": [
-            "sylb/me/s4/ME220",
-            "n/me/s4/me220/ME220_M1",
-            "n/me/s4/me220/ME220_M2",
-            "n/me/s4/me220/ME220_M3",
-            "n/me/s4/me220/ME220_M4",
-            "n/me/s4/me220/ME220_M5",
-            "n/me/s4/me220/ME220_M6"
-        ],
-        "qp": [
-            "q/me/s4/me220/ME220_2017_JUN",
-            "q/me/s4/me220/ME220_2017_JUL"
-        ],
-        "t": [
-            "t/me/s4/me220/Manufacturing_Engineering_&_Technology"
-        ]
-    },
-    {
-        "sub": "ME301",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME303",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME305",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME367",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "EE311",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME302",
-        "n": [
-            "sylb/me/s6/ME302",
-            "n/me/s6/me302/ME302_M1",
-            "n/me/s6/me302/ME302_M2",
-            "n/me/s6/me302/ME302_M3",
-            "n/me/s6/me302/ME302_M4",
-            "n/me/s6/me302/ME302_M5",
-            "n/me/s6/me302/ME302_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/me/s6/me302/Fundamentals_of_Heat_&_Mass_Transfer",
-            "t/me/s6/me302/Heat_Transfer",
-            "t/me/s6/me302/Heat_transfer-"
-        ]
-    },
-    {
-        "sub": "ME304",
-        "n": [
-            "sylb/me/s6/ME304",
-            "n/me/s6/me304/ME304_M1",
-            "n/me/s6/me304/ME304_M2",
-            "n/me/s6/me304/ME304_M3",
-            "n/me/s6/me304/ME304_M4",
-            "n/me/s6/me304/ME304_M5",
-            "n/me/s6/me304/ME304_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/me/s6/me304/Theory_of_Machines"
-        ]
-    },
-    {
-        "sub": "ME306",
-        "n": [
-            "sylb/me/s6/ME306",
-            "n/me/s6/me306/ME306_M1",
-            "n/me/s6/me306/ME306_M2",
-            "n/me/s6/me306/ME306_M3",
-            "n/me/s6/me306/ME306_M4",
-            "n/me/s6/me306/ME306_M5",
-            "n/me/s6/me306/ME306_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/me/s6/me306/Advanced_Machining_Processes"
-        ]
-    },
-    {
-        "sub": "ME308",
-        "n": [
-            "sylb/me/s6/ME308",
-            "n/me/s6/me308/ME308_M1",
-            "n/me/s6/me308/ME308_M2",
-            "n/me/s6/me308/ME308_M3",
-            "n/me/s6/me308/ME308_M4",
-            "n/me/s6/me308/ME308_M5",
-            "n/me/s6/me308/ME308_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/me/s6/me308/Computer_Aided_Design_&_Manufacturing"
-        ]
-    },
-    {
-        "sub": "ME312",
-        "n": [
-            "sylb/me/s6/ME312",
-            "n/me/s6/me312/ME312_M1",
-            "n/me/s6/me312/ME312_M2",
-            "n/me/s6/me312/ME312_M3",
-            "n/me/s6/me312/ME312_M4",
-            "n/me/s6/me312/ME312_M5",
-            "n/me/s6/me312/ME312_M6"
-        ],
-        "qp": [],
-        "t": [
-            "t/me/s6/me312/Metrology_&_Measurement"
-        ]
-    },
-    {
-        "sub": "ME362",
-        "n": [],
-        "qp": [],
-        "t": [
-            "t/me/s6/me362/Automatic_Control_Systems",
-            "t/me/s6/me362/Control_Systems_Engineering"
-        ]
-    },
-    {
-        "sub": "ME364",
-        "n": [],
-        "qp": [],
-        "t": [
-            "t/me/s6/me364/Gas_Turbines",
-            "t/me/s6/me364/Fluid_Mechanics_and_Thermodynamics_of_Turbomachinery"
-        ]
-    },
-    {
-        "sub": "ME366",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME368",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME372",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME374",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME376",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME401",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME403",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME405",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME407",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME409",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME461",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME463",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME465",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "IE306",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME467",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME469",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME471",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME402",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME404",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME462",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME464",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME466",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME468",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME472",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME474",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "ME476",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP201",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP202",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP204",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP206",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP208",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP301",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP303",
-        "n": [],
-        "qp": [],
-        "t": []
-    },
-    {
-        "sub": "MP361",
-        "n": [],
-        "qp": [],
-        "t": []
-    }
+[
+  {
+    "sub": "MA101",
+    "n": [
+      "sylb/s1-s2/MA101",
+      "n/s1-s2/ma101/MA101_M1"
+    ],
+    "qp": [
+      "q/s1-s2/ma101/MA101_2016_JUN",
+      "q/s1-s2/ma101/MA101_2016_AUG",
+      "q/s1-s2/ma101/MA101_2016_DEC_F",
+      "q/s1-s2/ma101/MA101_2016_DEC_S",
+      "q/s1-s2/ma101/MA101_2017_FEB_F",
+      "q/s1-s2/ma101/MA101_2017_FEB_S"
+    ],
+    "t": []
+  },
+  {
+    "sub": "PH100",
+    "n": [
+      "sylb/s1-s2/PH100",
+      "n/s1-s2/ph100/PH100_M1",
+      "n/s1-s2/ph100/PH100_M2",
+      "n/s1-s2/ph100/PH100_M3"
+    ],
+    "qp": [
+      "q/s1-s2/ph100/PH100_2016_AUG",
+      "q/s1-s2/ph100/PH100_2016_JAN",
+      "q/s1-s2/ph100/PH100_2016_JUL",
+      "q/s1-s2/ph100/PH100_2016_MAY",
+      "q/s1-s2/ph100/PH100_2017_JAN",
+      "q/s1-s2/ph100/PH100_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE100",
+    "n": [
+      "sylb/s1-s2/BE100",
+      "n/s1-s2/be100/BE100_M1",
+      "n/s1-s2/be100/BE100_M2",
+      "n/s1-s2/be100/BE100_M3",
+      "n/s1-s2/be100/BE100_M4"
+    ],
+    "qp": [
+      "q/s1-s2/be100/BE100_2016_AUG",
+      "q/s1-s2/be100/BE100_2016_JAN",
+      "q/s1-s2/be100/BE100_2016_JUL",
+      "q/s1-s2/be100/BE100_2017_JAN",
+      "q/s1-s2/be100/BE100_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE1011",
+    "n": [
+      "sylb/s1-s2/BE101-01"
+    ],
+    "qp": [
+      "q/s1-s2/be1011/BE1011_2016_JAN",
+      "q/s1-s2/be1011/BE1011_2016_JUN",
+      "q/s1-s2/be1011/BE1011_2016_SEP",
+      "q/s1-s2/be1011/BE1011_2017_JAN",
+      "q/s1-s2/be1011/BE1011_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE1012",
+    "n": [
+      "sylb/s1-s2/BE101-02",
+      "n/s1-s2/be1012/BE1012_M1",
+      "n/s1-s2/be1012/BE1012_M2",
+      "n/s1-s2/be1012/BE1012_M3",
+      "n/s1-s2/be1012/BE1012_M4",
+      "n/s1-s2/be1012/BE1012_M5",
+      "n/s1-s2/be1012/BE1012_M6"
+    ],
+    "qp": [
+      "q/s1-s2/be1012/BE1012_2016_JAN",
+      "q/s1-s2/be1012/BE1012_2016_JUN",
+      "q/s1-s2/be1012/BE1012_2016_SEP",
+      "q/s1-s2/be1012/BE1012_2017_JAN",
+      "q/s1-s2/be1012/BE1012_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE1013",
+    "n": [
+      "sylb/s1-s2/MBE101-03"
+    ],
+    "qp": [
+      "q/s1-s2/be1013/BE1013_2016_JAN",
+      "q/s1-s2/be1013/BE1013_2016_JUN",
+      "q/s1-s2/be1013/BE1013_2016_SEP",
+      "q/s1-s2/be1013/BE1013_2017_JAN",
+      "q/s1-s2/be1013/BE1013_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE1014",
+    "n": [
+      "sylb/s1-s2/BE101-04"
+    ],
+    "qp": [
+      "q/s1-s2/be1014/BE1014_2016_JAN",
+      "q/s1-s2/be1014/BE1014_2016_JUN",
+      "q/s1-s2/be1014/BE1014_2016_SEP",
+      "q/s1-s2/be1014/BE1014_2017_JAN",
+      "q/s1-s2/be1014/BE1014_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE1015",
+    "n": [
+      "sylb/s1-s2/BE101-05"
+    ],
+    "qp": [
+      "q/s1-s2/be1015/BE1015_2016_JAN",
+      "q/s1-s2/be1015/BE1015_2016_JUN",
+      "q/s1-s2/be1015/BE1015_2016_SEP",
+      "q/s1-s2/be1015/BE1015_2017_JAN",
+      "q/s1-s2/be1015/BE1015_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE103",
+    "n": [
+      "sylb/s1-s2/BE103"
+    ],
+    "qp": [
+      "q/s1-s2/be103/BE103_2016_JAN",
+      "q/s1-s2/be103/BE103_2016_JUN",
+      "q/s1-s2/be103/BE103_2016_SEP",
+      "q/s1-s2/be103/BE103_2017_JAN",
+      "q/s1-s2/be103/BE103_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CY100",
+    "n": [
+      "sylb/s1-s2/CY100",
+      "n/s1-s2/cy100/CY100_M1",
+      "n/s1-s2/cy100/CY100_M2",
+      "n/s1-s2/cy100/CY100_M3",
+      "n/s1-s2/cy100/CY100_M4",
+      "n/s1-s2/cy100/CY100_M5",
+      "n/s1-s2/cy100/CY100_M6"
+    ],
+    "qp": [
+      "q/s1-s2/cy100/CY100_2016_JAN",
+      "q/s1-s2/cy100/CY100_2016_AUG",
+      "q/s1-s2/cy100/CY100_2016_MAY",
+      "q/s1-s2/cy100/CY100_2016_JUL",
+      "q/s1-s2/cy100/CY100_2017_JAN",
+      "q/s1-s2/cy100/CY100_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE110",
+    "n": [
+      "sylb/s1-s2/BE110"
+    ],
+    "qp": [
+      "q/s1-s2/be110/BE110_2016_JAN",
+      "q/s1-s2/be110/BE110_2016_MAY",
+      "q/s1-s2/be110/BE110_2016_JUL",
+      "q/s1-s2/be110/BE110_2016_SEP",
+      "q/s1-s2/be110/BE110_2017_JAN",
+      "q/s1-s2/be110/BE110_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "BE102",
+    "n": [
+      "sylb/s1-s2/BE102"
+    ],
+    "qp": [
+      "q/s1-s2/be102/BE102_2016_MAY",
+      "q/s1-s2/be102/BE102_2016_JUL",
+      "q/s1-s2/be102/BE102_2016_SEP",
+      "q/s1-s2/be102/BE102_2017_JUN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EC100",
+    "n": [
+      "sylb/s1-s2/EC100",
+      "n/s1-s2/ec100/EC100_M2"
+    ],
+    "qp": [
+      "q/s1-s2/ec100/EC100_2016_JAN",
+      "q/s1-s2/ec100/EC100_2016_MAY",
+      "q/s1-s2/ec100/EC100_2016_JUL",
+      "q/s1-s2/ec100/EC100_2016_SEP",
+      "q/s1-s2/ec100/EC100_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS100",
+    "n": [
+      "sylb/s1-s2/CS100",
+      "n/s1-s2/cs100/CS100_M1",
+      "n/s1-s2/cs100/CS100_M2",
+      "n/s1-s2/cs100/CS100_M3",
+      "n/s1-s2/cs100/CS100_M4",
+      "n/s1-s2/cs100/CS100_M5"
+    ],
+    "qp": [
+      "q/s1-s2/cs100/CS100_2017_MAY",
+      "q/s1-s2/cs100/CS100_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EE100",
+    "n": [
+      "sylb/s1-s2/EE100"
+    ],
+    "qp": [
+      "q/s1-s2/ee100/EE100_2016_JAN",
+      "q/s1-s2/ee100/EE100_2016_MAY",
+      "q/s1-s2/ee100/EE100_2016_JUL",
+      "q/s1-s2/ee100/EE100_2016_SEP",
+      "q/s1-s2/ee100/EE100_2017_JAN",
+      "q/s1-s2/ee100/EE100_2017_JUN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "ME100",
+    "n": [
+      "sylb/s1-s2/ME100"
+    ],
+    "qp": [
+      "q/s1-s2/me100/ME100_2016_JAN",
+      "q/s1-s2/me100/ME100_2016_MAY",
+      "q/s1-s2/me100/ME100_2016_JUL",
+      "q/s1-s2/me100/ME100_2016_SEP",
+      "q/s1-s2/me100/ME100_2017_JAN",
+      "q/s1-s2/me100/ME100_2017_JUN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CE100",
+    "n": [
+      "sylb/s1-s2/CE100"
+    ],
+    "qp": [
+      "q/s1-s2/ce100/CE100_2016_JAN",
+      "q/s1-s2/ce100/CE100_2016_MAY",
+      "q/s1-s2/ce100/CE100_2016_JUL",
+      "q/s1-s2/ce100/CE100_2016_SEP",
+      "q/s1-s2/ce100/CE100_2017_JAN",
+      "q/s1-s2/ce100/CE100_2017_JUN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "MA201",
+    "n": [
+      "sylb/cse/s3/MA201",
+      "n/cse/s3/ma201/MA201_M1",
+      "n/cse/s3/ma201/MA201_M2",
+      "n/cse/s3/ma201/MA201_M3",
+      "n/cse/s3/ma201/MA201_M4",
+      "n/cse/s3/ma201/MA201_M5",
+      "n/cse/s3/ma201/MA201_M6"
+    ],
+    "qp": [
+      "q/cse/s3/ma201/MA201_2016_DEC",
+      "q/cse/s3/ma201/MA201_2017_MAR",
+      "q/cse/s3/ma201/MA201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "MA102",
+    "n": [
+      "sylb/s1-s2/MA102",
+      "n/s1-s2/ma102/MA102_M1",
+      "n/s1-s2/ma102/MA102_M2",
+      "n/s1-s2/ma102/MA102_M3",
+      "n/s1-s2/ma102/MA102_M4",
+      "n/s1-s2/ma102/MA102_M5",
+      "n/s1-s2/ma102/MA102_M6"
+    ],
+    "qp": [
+      "q/s1-s2/ma102/MA102_2016_MAY",
+      "q/s1-s2/ma102/MA102_2016_AUG",
+      "q/s1-s2/ma102/MA102_2016_JUL",
+      "q/s1-s2/ma102/MA102_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "HS200",
+    "n": [
+      "sylb/cse/s4/HS200",
+      "n/cse/s4/hs200/HS200_M1",
+      "n/cse/s4/hs200/HS200_M2",
+      "n/cse/s4/hs200/HS200_M3",
+      "n/cse/s4/hs200/HS200_M4",
+      "n/cse/s4/hs200/HS200_M5",
+      "n/cse/s4/hs200/HS200_M6"
+    ],
+    "qp": [
+      "q/cse/s3/hs200/HS200_2017_JAN",
+      "q/cse/s3/hs200/HS200_2017_MAY",
+      "q/cse/s3/hs200/HS200_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "HS210",
+    "n": [
+      "sylb/cse/s3/HS210",
+      "n/cse/s3/hs210/HS210_M1",
+      "n/cse/s3/hs210/HS210_M2",
+      "n/cse/s3/hs210/HS210_M3",
+      "n/cse/s3/hs210/HS210_M4",
+      "n/cse/s3/hs210/HS210_M5"
+    ],
+    "qp": [
+      "q/cse/s3/hs210/HS210_2017_JAN",
+      "q/cse/s3/hs210/HS210_2017_MAY"
+    ],
+    "t": []
+  },
+  {
+    "sub": "HS300",
+    "n": [
+      "sylb/cse/s6/HS300",
+      "n/cse/s6/hs300/HS300_M1",
+      "n/cse/s6/hs300/HS300_M2",
+      "n/cse/s6/hs300/HS300_M3",
+      "n/cse/s6/hs300/HS300_M4",
+      "n/cse/s6/hs300/HS300_M5",
+      "n/cse/s6/hs300/HS300_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS201",
+    "n": [
+      "sylb/cse/s3/CS201"
+    ],
+    "qp": [
+      "q/cse/s3/cs201/CS201_2017_JAN",
+      "q/cse/s3/cs201/CS201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS203",
+    "n": [
+      "sylb/cse/s3/CS203"
+    ],
+    "qp": [
+      "q/cse/s3/cs203/CS203_2017_JAN",
+      "q/cse/s3/cs203/CS203_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS205",
+    "n": [
+      "sylb/cse/s3/CS205",
+      "n/cse/s3/cs205/CS205_M1",
+      "n/cse/s3/cs205/CS205_M2",
+      "n/cse/s3/cs205/CS205_M3",
+      "n/cse/s3/cs205/CS205_M4",
+      "n/cse/s3/cs205/CS205_M5",
+      "n/cse/s3/cs205/CS205_M6"
+    ],
+    "qp": [
+      "q/cse/s3/cs205/CS205_2017_JAN",
+      "q/cse/s3/cs205/CS205_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS207",
+    "n": [
+      "sylb/cse/s3/CS207",
+      "n/cse/s3/cs207/CS207_M1",
+      "n/cse/s3/cs207/CS207_M2",
+      "n/cse/s3/cs207/CS207_M3",
+      "n/cse/s3/cs207/CS207_M4",
+      "n/cse/s3/cs207/CS207_M5",
+      "n/cse/s3/cs207/CS207_M6"
+    ],
+    "qp": [
+      "q/cse/s3/cs207/CS207_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "MA202",
+    "n": [
+      "sylb/cse/s4/MA202",
+      "n/cse/s4/ma202/MA202_M1",
+      "n/cse/s4/ma202/MA202_M2",
+      "n/cse/s4/ma202/MA202_M3",
+      "n/cse/s4/ma202/MA202_M4",
+      "n/cse/s4/ma202/MA202_M5",
+      "n/cse/s4/ma202/MA202_M6"
+    ],
+    "qp": [
+      "q/cse/s4/ma202/MA202_2017_MAY",
+      "q/cse/s4/ma202/MA202_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/ma202/Advanced_engineering_mathematics"
+    ]
+  },
+  {
+    "sub": "CS202",
+    "n": [
+      "sylb/cse/s4/CS202",
+      "n/cse/s4/cs202/CS202_M1",
+      "n/cse/s4/cs202/CS202_M2",
+      "n/cse/s4/cs202/CS202_M3",
+      "n/cse/s4/cs202/CS202_M4",
+      "n/cse/s4/cs202/CS202_M5",
+      "n/cse/s4/cs202/CS202_M6"
+    ],
+    "qp": [
+      "q/cse/s4/cs202/CS202_2017_MAY",
+      "q/cse/s4/cs202/CS202_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/cs202/Computer_Organization",
+      "t/cse/s4/cs202/Digital_Logic_&_Computer_Design"
+    ]
+  },
+  {
+    "sub": "CS204",
+    "n": [
+      "sylb/cse/s4/CS204",
+      "n/cse/s4/cs204/CS204_M1",
+      "n/cse/s4/cs204/CS204_M2",
+      "n/cse/s4/cs204/CS204_M3",
+      "n/cse/s4/cs204/CS204_M4",
+      "n/cse/s4/cs204/CS204_M5",
+      "n/cse/s4/cs204/CS204_M6"
+    ],
+    "qp": [
+      "q/cse/s4/cs204/CS204_2017_JUN",
+      "q/cse/s4/cs204/CS204_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/cs204/Operating_System_Concepts"
+    ]
+  },
+  {
+    "sub": "CS206",
+    "n": [
+      "sylb/cse/s4/CS206",
+      "n/cse/s4/cs206/CS206_M1",
+      "n/cse/s4/cs206/CS206_M2",
+      "n/cse/s4/cs206/CS206_M3",
+      "n/cse/s4/cs206/CS206_M4",
+      "n/cse/s4/cs206/CS206_M5",
+      "n/cse/s4/cs206/CS206_M6"
+    ],
+    "qp": [
+      "q/cse/s4/cs206/CS206_2017_JUN",
+      "q/cse/s4/cs206/CS206_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/cs206/Java_The_Complete_Reference"
+    ]
+  },
+  {
+    "sub": "CS208",
+    "n": [
+      "sylb/cse/s4/CS208",
+      "n/cse/s4/cs208/CS208_M1",
+      "n/cse/s4/cs208/CS208_M2",
+      "n/cse/s4/cs208/CS208_M3",
+      "n/cse/s4/cs208/CS208_M4",
+      "n/cse/s4/cs208/CS208_M5",
+      "n/cse/s4/cs208/CS208_M6"
+    ],
+    "qp": [
+      "q/cse/s4/cs208/CS208_2017_JUN",
+      "q/cse/s4/cs208/CS208_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/cs208/Fundamentals_of_Database_Systems"
+    ]
+  },
+  {
+    "sub": "CS301",
+    "n": [
+      "sylb/cse/s5/CS301",
+      "n/cse/s5/cs301/CS301_M1",
+      "n/cse/s5/cs301/CS301_M2",
+      "n/cse/s5/cs301/CS301_M3",
+      "n/cse/s5/cs301/CS301_M4"
+    ],
+    "qp": [
+      "q/cse/s5/cs301/CS301_Model_1",
+      "q/cse/s5/cs301/CS301_Model_2",
+      "q/cse/s5/cs301/CS301_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS303",
+    "n": [
+      "sylb/cse/s5/CS303",
+      "n/cse/s5/cs303/CS303_M1",
+      "n/cse/s5/cs303/CS303_M2",
+      "n/cse/s5/cs303/CS303_M3",
+      "n/cse/s5/cs303/CS303_M4",
+      "n/cse/s5/cs303/CS303_M5",
+      "n/cse/s5/cs303/CS303_M6"
+    ],
+    "qp": [
+      "q/cse/s5/cs303/CS303_Model_1",
+      "q/cse/s5/cs303/CS303_Model_2",
+      "q/cse/s5/cs303/CS303_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS305",
+    "n": [
+      "sylb/cse/s5/CS305",
+      "n/cse/s5/cs305/CS305_M1",
+      "n/cse/s5/cs305/CS305_M2",
+      "n/cse/s5/cs305/CS305_M3",
+      "n/cse/s5/cs305/CS305_M4",
+      "n/cse/s5/cs305/CS305_M5",
+      "n/cse/s5/cs305/CS305_M6"
+    ],
+    "qp": [
+      "q/cse/s5/cs305/CS305_Model_1",
+      "q/cse/s5/cs305/CS305_Model_2",
+      "q/cse/s5/cs305/CS305_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS307",
+    "n": [
+      "sylb/cse/s5/CS307",
+      "n/cse/s5/cs307/CS307_M1",
+      "n/cse/s5/cs307/CS307_M2",
+      "n/cse/s5/cs307/CS307_M3",
+      "n/cse/s5/cs307/CS307_M4",
+      "n/cse/s5/cs307/CS307_M5",
+      "n/cse/s5/cs307/CS307_M6"
+    ],
+    "qp": [
+      "q/cse/s5/cs307/CS307_Model_1",
+      "q/cse/s5/cs307/CS307_Model_2",
+      "q/cse/s5/cs307/CS307_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS309",
+    "n": [
+      "sylb/cse/s5/CS309",
+      "n/cse/s5/cs309/CS309_M1",
+      "n/cse/s5/cs309/CS309_M2",
+      "n/cse/s5/cs309/CS309_M3",
+      "n/cse/s5/cs309/CS309_M4",
+      "n/cse/s5/cs309/CS309_M5",
+      "n/cse/s5/cs309/CS309_M6"
+    ],
+    "qp": [
+      "q/cse/s5/cs309/CS309_Model_1",
+      "q/cse/s5/cs309/CS309_Model_2",
+      "q/cse/s5/cs309/CS309_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS361",
+    "n": [
+      "sylb/cse/s5/CS361",
+      "n/cse/s5/cs361/CS361_M1",
+      "n/cse/s5/cs361/CS361_M2",
+      "n/cse/s5/cs361/CS361_M3",
+      "n/cse/s5/cs361/CS361_M4",
+      "n/cse/s5/cs361/CS361_M5",
+      "n/cse/s5/cs361/CS361_M6"
+    ],
+    "qp": [
+      "q/cse/s5/cs361/CS361_Model_1",
+      "q/cse/s5/cs361/CS361_Model_2",
+      "q/cse/s5/cs361/CS361_Model_3"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CS302",
+    "n": [
+      "sylb/cse/s6/CS302",
+      "n/cse/s6/cs302/CS302_M1",
+      "n/cse/s6/cs302/CS302_M2",
+      "n/cse/s6/cs302/CS302_M3",
+      "n/cse/s6/cs302/CS302_M4",
+      "n/cse/s6/cs302/CS302_M5",
+      "n/cse/s6/cs302/CS302_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs302/Computer_Algorithms",
+      "t/cse/s6/cs302/Introduction_to_Algorithms"
+    ]
+  },
+  {
+    "sub": "CS304",
+    "n": [
+      "sylb/cse/s6/CS304",
+      "n/cse/s6/cs304/CS304_M1",
+      "n/cse/s6/cs304/CS304_M2",
+      "n/cse/s6/cs304/CS304_M3",
+      "n/cse/s6/cs304/CS304_M4",
+      "n/cse/s6/cs304/CS304_M5",
+      "n/cse/s6/cs304/CS304_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs304/Compilers_Principles_Techniques_&_Tools",
+      "t/cse/s6/cs304/System_Programming_&_Operating_Systems"
+    ]
+  },
+  {
+    "sub": "CS306",
+    "n": [
+      "sylb/cse/s6/CS306",
+      "n/cse/s6/cs306/CS306_M1",
+      "n/cse/s6/cs306/CS306_M2",
+      "n/cse/s6/cs306/CS306_M3",
+      "n/cse/s6/cs306/CS306_M4",
+      "n/cse/s6/cs306/CS306_M5",
+      "n/cse/s6/cs306/CS306_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs306/Computer_Networks",
+      "t/cse/s6/cs306/Computer_Networks-A_Systems_Approach",
+      "t/cse/s6/cs306/Data_Communications_&_Networking"
+    ]
+  },
+  {
+    "sub": "CS308",
+    "n": [
+      "sylb/cse/s6/CS308",
+      "n/cse/s6/cs308/CS308_M1",
+      "n/cse/s6/cs308/CS308_M2",
+      "n/cse/s6/cs308/CS308_M3",
+      "n/cse/s6/cs308/CS308_M4",
+      "n/cse/s6/cs308/CS308_M5",
+      "n/cse/s6/cs308/CS308_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs308/Software_Engineering",
+      "t/cse/s6/cs308/Software_Engineering_A_practitioners_approach",
+      "t/cse/s6/cs308/Software_Project_Management"
+    ]
+  },
+  {
+    "sub": "CS362",
+    "n": [
+      "sylb/cse/s6/CS362",
+      "n/cse/s6/cs362/CS362_M1",
+      "n/cse/s6/cs362/CS362_M2",
+      "n/cse/s6/cs362/CS362_M3",
+      "n/cse/s6/cs362/CS362_M4",
+      "n/cse/s6/cs362/CS362_M5",
+      "n/cse/s6/cs362/CS362_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs362/Computer_vision_&_Applications",
+      "t/cse/s6/cs362/Computer_vision_A_Modern_Approach"
+    ]
+  },
+  {
+    "sub": "CS364",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs364/Fundamentals_of_5G_Mobile_Networks",
+      "t/cse/s6/cs364/Mobile_Communications",
+      "t/cse/s6/cs364/Mobile_Computing_Technology_-_Application_&_Service_Creation"
+    ]
+  },
+  {
+    "sub": "CS366",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs366/Speech_&_Language_Processing",
+      "t/cse/s6/cs366/Natural_Language_Understanding"
+    ]
+  },
+  {
+    "sub": "CS368",
+    "n": [
+      "sylb/cse/s6/CS368",
+      "n/cse/s6/cs368/CS368_M1",
+      "n/cse/s6/cs368/CS368_M2",
+      "n/cse/s6/cs368/CS368_M3",
+      "n/cse/s6/cs368/CS368_M4",
+      "n/cse/s6/cs368/CS368_M5",
+      "n/cse/s6/cs368/CS368_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs368/Programming_the_World_Wide_Web",
+      "t/cse/s6/cs368/Internet_&_World_Wide_Web_How_To_Program"
+    ]
+  },
+  {
+    "sub": "CS372",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS401",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
+      "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
+    ]
+  },
+  {
+    "sub": "CS403",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS405",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS409",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS461",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS463",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS465",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS467",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS469",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS402",
+    "n": [
+      "sylb/cse/s8/CS402"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS404",
+    "n": [
+      "sylb/cse/s8/CS404"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS462",
+    "n": [
+      "sylb/cse/s8/CS462"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS464",
+    "n": [
+      "sylb/cse/s8/CS464"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS466",
+    "n": [
+      "sylb/cse/s8/CS466"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS468",
+    "n": [
+      "sylb/cse/s8/CS468"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CS472",
+    "n": [
+      "sylb/cse/s8/CS472"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE201",
+    "n": [
+      "sylb/ce/s3/CE201",
+      "n/ce/s3/"
+    ],
+    "qp": [
+      "q/ce/s3/ce201/CE201_2017_JAN",
+      "q/ce/s3/ce201/CE201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CE203",
+    "n": [
+      "sylb/ce/s3/CE203",
+      "n/ce/s3/ce203/CE203_M1",
+      "n/ce/s3/ce203/CE203_M2",
+      "n/ce/s3/ce203/CE203_M3",
+      "n/ce/s3/ce203/CE203_M4",
+      "n/ce/s3/ce203/CE203_M5",
+      "n/ce/s3/ce203/CE203_M6"
+    ],
+    "qp": [
+      "q/ce/s3/ce203/CE203_2017_JAN",
+      "q/ce/s3/ce203/CE203_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CE205",
+    "n": [
+      "sylb/ce/s3/CE205",
+      "n/ce/s3/ce205/CE205_M1",
+      "n/ce/s3/ce205/CE205_M2",
+      "n/ce/s3/ce205/CE205_M3",
+      "n/ce/s3/ce205/CE205_M4",
+      "n/ce/s3/ce205/CE205_M5",
+      "n/ce/s3/ce205/CE205_M6"
+    ],
+    "qp": [
+      "q/ce/s3/ce205/CE205_2017_JAN",
+      "q/ce/s3/ce205/CE205_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CE207",
+    "n": [
+      "sylb/ce/s3/CE207",
+      "n/ce/s3/ce207/CE207_M1",
+      "n/ce/s3/ce207/CE207_M2",
+      "n/ce/s3/ce207/CE207_M3",
+      "n/ce/s3/ce207/CE207_M4",
+      "n/ce/s3/ce207/CE207_M5",
+      "n/ce/s3/ce207/CE207_M6"
+    ],
+    "qp": [
+      "q/ce/s3/ce207/CE207_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "CE202",
+    "n": [
+      "sylb/ce/s4/CE202",
+      "n/ce/s4/ce202/CE202_M1",
+      "n/ce/s4/ce202/CE202_M2",
+      "n/ce/s4/ce202/CE202_M3",
+      "n/ce/s4/ce202/CE202_M4",
+      "n/ce/s4/ce202/CE202_M5",
+      "n/ce/s4/ce202/CE202_M6"
+    ],
+    "qp": [
+      "q/ce/s4/ce202/CE202_2017_MAY",
+      "q/ce/s4/ce202/CE202_2017_JUL"
+    ],
+    "t": [
+      "t/ce/s4/ce202/Fundamentals_of_Structural_Analysis",
+      "t/ce/s4/ce202/Mechanics_of_materials"
+    ]
+  },
+  {
+    "sub": "CE204",
+    "n": [
+      "sylb/ce/s4/CE204",
+      "n/ce/s4/ce204/CE204_M1",
+      "n/ce/s4/ce204/CE204_M2",
+      "n/ce/s4/ce204/CE204_M3",
+      "n/ce/s4/ce204/CE204_M6"
+    ],
+    "qp": [
+      "q/ce/s4/ce204/CE204_2017_JUN",
+      "q/ce/s4/ce204/CE204_2017_JUL"
+    ],
+    "t": [
+      "t/ce/s4/ce204/Building_construction",
+      "t/ce/s4/ce204/Concreate_technology_theory_and_practice",
+      "t/ce/s4/ce204/Engineering_Materials"
+    ]
+  },
+  {
+    "sub": "CE206",
+    "n": [
+      "sylb/ce/s4/CE206",
+      "n/ce/s4/ce206/CE206_M2",
+      "n/ce/s4/ce206/CE206_M3",
+      "n/ce/s4/ce206/CE206_M4",
+      "n/ce/s4/ce206/CE206_M5",
+      "n/ce/s4/ce206/CE206_M6"
+    ],
+    "qp": [
+      "q/ce/s4/ce206/CE206_2017_JUN",
+      "q/ce/s4/ce206/CE206_2017_JUL"
+    ],
+    "t": [
+      "t/ce/s4/ce206/Hydraulics_&_Fluid_Mechanics"
+    ]
+  },
+  {
+    "sub": "CE208",
+    "n": [
+      "sylb/ce/s4/CE208",
+      "n/ce/s4/ce208/CE208_M1",
+      "n/ce/s4/ce208/CE208_M2",
+      "n/ce/s4/ce208/CE208_M3",
+      "n/ce/s4/ce208/CE208_M4",
+      "n/ce/s4/ce208/CE208_M5",
+      "n/ce/s4/ce208/CE208_M6"
+    ],
+    "qp": [
+      "q/ce/s4/ce208/CE208_2017_JUN",
+      "q/ce/s4/ce208/CE208_2017_JUL"
+    ],
+    "t": [
+      "t/ce/s4/ce208/Principles_of_Geotechnical_Engineering"
+    ]
+  },
+  {
+    "sub": "CE301",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE303",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE305",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE307",
+    "n": [
+      "sylb/cse/s6/CS307"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE309",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE361",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE365",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE373",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE302",
+    "n": [
+      "sylb/ce/s6/CE302",
+      "n/ce/s6/ce302/CE302_M1",
+      "n/ce/s6/ce302/CE302_M2",
+      "n/ce/s6/ce302/CE302_M3",
+      "n/ce/s6/ce302/CE302_M4",
+      "n/ce/s6/ce302/CE302_M5"
+    ],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce302/Irriagtion_Engineering_Hydraulic_Structures"
+    ]
+  },
+  {
+    "sub": "CE304",
+    "n": [
+      "sylb/ce/s6/CE304",
+      "n/ce/s6/ce304/CE304_M1",
+      "n/ce/s6/ce304/CE304_M2",
+      "n/ce/s6/ce304/CE304_M3",
+      "n/ce/s6/ce304/CE304_M4",
+      "n/ce/s6/ce304/CE304_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce304/Prestressed_Concrete",
+      "t/ce/s6/ce304/Reinforced_Concrete_Design"
+    ]
+  },
+  {
+    "sub": "CE306",
+    "n": [
+      "sylb/ce/s6/CE306",
+      "n/ce/s6/ce306/CE306_M1",
+      "n/ce/s6/ce306/CE306_M2",
+      "n/ce/s6/ce306/CE306_M3",
+      "n/ce/s6/ce306/CE306_M4",
+      "n/ce/s6/ce306/CE306_M5",
+      "n/ce/s6/ce306/CE306_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce306/Applied_Numerical_Analysis",
+      "t/ce/s6/ce306/C++_Programming",
+      "t/ce/s6/ce306/Object_Oriented_programming_with_C++"
+    ]
+  },
+  {
+    "sub": "CE308",
+    "n": [
+      "sylb/ce/s6/CE308",
+      "n/ce/s6/ce308/CE308_M1",
+      "n/ce/s6/ce308/CE308_M2",
+      "n/ce/s6/ce308/CE308_M3",
+      "n/ce/s6/ce308/CE308_M4",
+      "n/ce/s6/ce308/CE308_M5",
+      "n/ce/s6/ce308/CE308_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce308/Highway_Engineering"
+    ]
+  },
+  {
+    "sub": "CE362",
+    "n": [
+      "sylb/ce/s6/CE362",
+      "n/ce/s6/ce362/CE362_M1",
+      "n/ce/s6/ce362/CE362_M2",
+      "n/ce/s6/ce362/CE362_M3",
+      "n/ce/s6/ce362/CE362_M4",
+      "n/ce/s6/ce362/CE362_M5",
+      "n/ce/s6/ce362/CE362_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce362/Ground_Improvement_Techniques"
+    ]
+  },
+  {
+    "sub": "CE364",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce364/Advanced_Foundation_Engineering"
+    ]
+  },
+  {
+    "sub": "CE366",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce366/Highway_Engineering",
+      "t/ce/s6/ce366/Traffic_Flow_Theory"
+    ]
+  },
+  {
+    "sub": "CE368",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce368/Prestressed_concrete"
+    ]
+  },
+  {
+    "sub": "CE372",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ce/s6/ce372/Engineering_Hydrology",
+      "t/ce/s6/ce372/Hydrology"
+    ]
+  },
+  {
+    "sub": "CE374",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE401",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE403",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE405",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE407",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE409",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE461",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE463",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE465",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE467",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE469",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE471",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE473",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE451",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE431",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE402",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE404",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE462",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE464",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE466",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE468",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE472",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "CE474",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE201",
+    "n": [],
+    "qp": [
+      "q/eee/s3/ee201/EE201_2017_JAN",
+      "q/eee/s3/ee201/EE201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EE203",
+    "n": [],
+    "qp": [
+      "q/eee/s3/ee203/EE203_2017_JAN",
+      "q/eee/s3/ee203/EE203_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EE205",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE207",
+    "n": [],
+    "qp": [
+      "q/eee/s3/ee207/EE207_2017_JAN",
+      "q/eee/s3/ee207/EE207_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EE202",
+    "n": [
+      "sylb/eee/s4/EE202",
+      "n/eee/s4/ee202/EE202_M1",
+      "n/eee/s4/ee202/EE202_M2",
+      "n/eee/s4/ee202/EE202_M3",
+      "n/eee/s4/ee202/EE202_M4",
+      "n/eee/s4/ee202/EE202_M5",
+      "n/eee/s4/ee202/EE202_M6"
+    ],
+    "qp": [
+      "q/eee/s4/ee202/EE202_2017_MAY",
+      "q/eee/s4/ee202/EE202_2017_JUL"
+    ],
+    "t": [
+      "t/eee/s4/ee202/Electrical_Machinery",
+      "t/eee/s4/ee202/Theory_of_AC_Machines"
+    ]
+  },
+  {
+    "sub": "EE204",
+    "n": [
+      "sylb/eee/s4/EE204",
+      "n/eee/s4/ee204/EE204_M1",
+      "n/eee/s4/ee204/EE204_M2",
+      "n/eee/s4/ee204/EE204_M3",
+      "n/eee/s4/ee204/EE204_M4",
+      "n/eee/s4/ee204/EE204_M5",
+      "n/eee/s4/ee204/EE204_M6"
+    ],
+    "qp": [
+      "q/eee/s4/ee204/EE204_2017_JUN",
+      "q/eee/s4/ee204/EE204_2017_JUL"
+    ],
+    "t": [
+      "t/eee/s4/ee204/Digital_Fundamentals",
+      "t/eee/s4/ee204/Fundamentals_of_Logic_Design"
+    ]
+  },
+  {
+    "sub": "EE206",
+    "n": [
+      "sylb/eee/s4/EE206",
+      "n/eee/s4/ee206/EE206_M1",
+      "n/eee/s4/ee206/EE206_M2",
+      "n/eee/s4/ee206/EE206_M3",
+      "n/eee/s4/ee206/EE206_M4",
+      "n/eee/s4/ee206/EE206_M5",
+      "n/eee/s4/ee206/EE206_M6"
+    ],
+    "qp": [
+      "q/eee/s4/ee206/EE206_2017_JUN",
+      "q/eee/s4/ee206/EE206_2017_JUL"
+    ],
+    "t": [
+      "t/eee/s4/ee206/Electrical_enginnering_materials"
+    ]
+  },
+  {
+    "sub": "EE208",
+    "n": [
+      "sylb/eee/s4/EE208",
+      "n/eee/s4/ee208/EE208_M1",
+      "n/eee/s4/ee208/EE208_M2",
+      "n/eee/s4/ee208/EE208_M3",
+      "n/eee/s4/ee208/EE208_M4",
+      "n/eee/s4/ee208/EE208_M5",
+      "n/eee/s4/ee208/EE208_M6"
+    ],
+    "qp": [
+      "q/eee/s4/ee208/EE208_2017_JUN",
+      "q/eee/s4/ee208/EE208_2017_JUL"
+    ],
+    "t": [
+      "t/eee/s4/ee208/A_course_in_Electrical_&_Electronic_Measurements_&_instrumentation"
+    ]
+  },
+  {
+    "sub": "EE301",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE303",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE305",
+    "n": [
+      "sylb/eee/s5/EE305",
+      "n/eee/s5/ee305/EE305_M1",
+      "n/eee/s5/ee305/EE305_M2",
+      "n/eee/s5/ee305/EE305_M3",
+      "n/eee/s5/ee305/EE305_M4",
+      "n/eee/s5/ee305/EE305_M5",
+      "n/eee/s5/ee305/EE305_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE307",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE309",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE367",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE302",
+    "n": [
+      "sylb/eee/s6/EE302",
+      "n/eee/s6/ee302/EE302_M1",
+      "n/eee/s6/ee302/EE302_M2",
+      "n/eee/s6/ee302/EE302_M3",
+      "n/eee/s6/ee302/EE302_M4",
+      "n/eee/s6/ee302/EE302_M5",
+      "n/eee/s6/ee302/EE302_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee302/Elements_of_Electromagnetics",
+      "t/eee/s6/ee302/Elements_of_Engineering_Electromagnetics"
+    ]
+  },
+  {
+    "sub": "EE304",
+    "n": [
+      "sylb/eee/s6/EE304",
+      "n/eee/s6/ee304/EE304_M1",
+      "n/eee/s6/ee304/EE304_M2",
+      "n/eee/s6/ee304/EE304_M3",
+      "n/eee/s6/ee304/EE304_M4",
+      "n/eee/s6/ee304/EE304_M5",
+      "n/eee/s6/ee304/EE304_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee304/Analysis_&_Synthesis_of_Sampled_Data_Systems",
+      "t/eee/s6/ee304/Control_System_Engineering",
+      "t/eee/s6/ee304/Control_Systems_Engineering_nise",
+      "t/eee/s6/ee304/modern_control_engineering",
+      "t/eee/s6/ee304/Nonlinear_Systems"
+    ]
+  },
+  {
+    "sub": "EE306",
+    "n": [
+      "sylb/eee/s6/EE306",
+      "n/eee/s6/ee306/EE306_M1",
+      "n/eee/s6/ee306/EE306_M2",
+      "n/eee/s6/ee306/EE306_M3",
+      "n/eee/s6/ee306/EE306_M4",
+      "n/eee/s6/ee306/EE306_M5",
+      "n/eee/s6/ee306/EE306_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee306/Electrical_Power_Systems",
+      "t/eee/s6/ee306/Modern_Power_System_Analysis"
+    ]
+  },
+  {
+    "sub": "EE308",
+    "n": [
+      "sylb/eee/s6/EE308",
+      "n/eee/s6/ee308/EE308_M1",
+      "n/eee/s6/ee308/EE308_M2",
+      "n/eee/s6/ee308/EE308_M3",
+      "n/eee/s6/ee308/EE308_M4",
+      "n/ee/s6/ee308/EE308_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee308/Modern_power_electronics_&_AC_drives"
+    ]
+  },
+  {
+    "sub": "EE362",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee362/Algorith_&_Data_Structures",
+      "t/eee/s6/ee362/Data_structures_&_Algorithms",
+      "t/eee/s6/ee362/Fundamentals_of_computer_algorithms",
+      "t/eee/s6/ee362/The_Art_of_Computer_Programming"
+    ]
+  },
+  {
+    "sub": "EE364",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee364/Power_Electronics_Circuits_Devices_&_Applications",
+      "t/eee/s6/ee364/Power_Electronics_Converters_Application_&_Design"
+    ]
+  },
+  {
+    "sub": "EE366",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee366/Light_&_Engineering"
+    ]
+  },
+  {
+    "sub": "EE368",
+    "n": [
+      "sylb/eee/s6/EE368",
+      "n/eee/s6/ee368/EE368_M1",
+      "n/eee/s6/ee368/EE368_M2",
+      "n/eee/s6/ee368/EE368_M3",
+      "n/eee/s6/ee368/EE368_M4",
+      "n/eee/s6/ee368/EE368_M5",
+      "n/eee/s6/ee368/EE368_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee368/Neural_Networks_Algorithms_Applications_Programming_Techniques",
+      "t/eee/s6/ee368/Neuro_Fuzzy_&_Soft_Computing"
+    ]
+  },
+  {
+    "sub": "EE372",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/eee/s6/ee372/Medical_Instrumentation_Application_Design"
+    ]
+  },
+  {
+    "sub": "EE401",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE403",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE405",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE407",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE409",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE461",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE463",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE465",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE467",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE469",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE451",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE402",
+    "n": [
+      "sylb/eee/s8/EE402"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE404",
+    "n": [
+      "sylb/eee/s8/EE404"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE462",
+    "n": [
+      "sylb/eee/s8/EE462"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE464",
+    "n": [
+      "sylb/eee/s8/EE464"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE466",
+    "n": [
+      "sylb/eee/s8/EE466"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE468",
+    "n": [
+      "sylb/eee/s8/EE468"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE472",
+    "n": [
+      "sylb/eee/s8/EE472"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE474",
+    "n": [
+      "sylb/eee/s8/EE444"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC201",
+    "n": [
+      "sylb/ece/s3/EC201",
+      "n/ece/s3/ec201/EC201_M1",
+      "n/ece/s3/ec201/EC201_M2",
+      "n/ece/s3/ec201/EC201_M3",
+      "n/ece/s3/ec201/EC201_M4",
+      "n/ece/s3/ec201/EC201_M5",
+      "n/ece/s3/ec201/EC201_M6"
+    ],
+    "qp": [
+      "q/ece/s3/ec201/EC201_2017_JAN",
+      "q/ece/s3/ec201/EC201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EC203",
+    "n": [
+      "sylb/ece/s3/EC203",
+      "n/ece/s3/ec203/EC203_M1",
+      "n/ece/s3/ec203/EC203_M2",
+      "n/ece/s3/ec203/EC203_M3",
+      "n/ece/s3/ec203/EC203_M4",
+      "n/ece/s3/ec203/EC203_M5",
+      "n/ece/s3/ec203/EC203_M6"
+    ],
+    "qp": [
+      "q/ece/s3/ec203/EC203_2017_JAN",
+      "q/ece/s3/ec203/EC203_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EC205",
+    "n": [
+      "sylb/ece/s3/EC205",
+      "n/ece/s3/ec205/EC205_M1",
+      "n/ece/s3/ec205/EC205_M2",
+      "n/ece/s3/ec205/EC205_M3",
+      "n/ece/s3/ec205/EC205_M4",
+      "n/ece/s3/ec205/EC205_M5",
+      "n/ece/s3/ec205/EC205_M6"
+    ],
+    "qp": [
+      "q/ece/s3/ec205/EC205_2017_JAN",
+      "q/ece/s3/ec205/EC205_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EC207",
+    "n": [
+      "sylb/ece/s3/EC207",
+      "n/ece/s3/ec207/EC207_M1",
+      "n/ece/s3/ec207/EC207_M2",
+      "n/ece/s3/ec207/EC207_M3",
+      "n/ece/s3/ec207/EC207_M4",
+      "n/ece/s3/ec207/EC207_M5",
+      "n/ece/s3/ec207/EC207_M6"
+    ],
+    "qp": [
+      "q/ece/s3/ec207/EC207_2017_JAN",
+      "q/ece/s3/ec207/EC207_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "MA204",
+    "n": [
+      "sylb/ece/s4/MA204",
+      "n/ece/s4/ma204/MA204_M1",
+      "n/ece/s4/ma204/MA204_M3",
+      "n/ece/s4/ma204/MA204_M5",
+      "n/ece/s4/ma204/MA204_M6"
+    ],
+    "qp": [
+      "q/ece/s4/ma204/MA204_2017_MAY",
+      "q/ece/s4/ma204/MA204_2017_JUL"
+    ],
+    "t": [
+      "t/cse/s4/ma202/Advanced_engineering_mathematics"
+    ]
+  },
+  {
+    "sub": "EC202",
+    "n": [
+      "sylb/ece/s4/EC202",
+      "n/ece/s4/ec202/EC202_M1",
+      "n/ece/s4/ec202/EC202_M2",
+      "n/ece/s4/ec202/EC202_M3",
+      "n/ece/s4/ec202/EC202_M4",
+      "n/ece/s4/ec202/EC202_M5",
+      "n/ece/s4/ec202/EC202_M6"
+    ],
+    "qp": [
+      "q/ece/s4/ec202/EC202_2017_MAY",
+      "q/ece/s4/ec202/EC202_2017_JUL"
+    ],
+    "t": [
+      "t/ece/s4/ec202/Signal_&_Systems",
+      "t/ece/s4/ec202/Signals_And_Systems"
+    ]
+  },
+  {
+    "sub": "EC204",
+    "n": [
+      "sylb/ece/s4/EC204",
+      "n/ece/s4/ec204/EC204_M1",
+      "n/ece/s4/ec204/EC204_M2",
+      "n/ece/s4/ec204/EC204_M3",
+      "n/ece/s4/ec204/EC204_M4",
+      "n/ece/s4/ec204/EC204_M5",
+      "n/ece/s4/ec204/EC204_M6"
+    ],
+    "qp": [
+      "q/ece/s4/ec204/EC204_2017_JUN",
+      "q/ece/s4/ec204/EC204_2017_JUL"
+    ],
+    "t": [
+      "t/ece/s4/ec204/Operational_Amplifiers_&_Linear_Integrated_Circuits"
+    ]
+  },
+  {
+    "sub": "EC206",
+    "n": [
+      "sylb/ece/s4/EC206",
+      "n/ece/s4/ec206/EC206_M1",
+      "n/ece/s4/ec206/EC206_M2",
+      "n/ece/s4/ec206/EC206_M3",
+      "n/ece/s4/ec206/EC206_M4",
+      "n/ece/s4/ec206/EC206_M5",
+      "n/ece/s4/ec206/EC206_M6"
+    ],
+    "qp": [
+      "q/ece/s4/ec206/EC206_2017_JUN",
+      "q/ece/s4/ec206/EC206_2017_JUL"
+    ],
+    "t": [
+      "t/ece/s4/ec206/Computer_Organization_&_Design",
+      "t/ece/s4/ec206/Digital_Design_&_Computer_Architecture"
+    ]
+  },
+  {
+    "sub": "EC208",
+    "n": [
+      "sylb/ece/s4/EC208",
+      "n/ece/s4/ec208/EC208_M1",
+      "n/ece/s4/ec208/EC208_M2",
+      "n/ece/s4/ec208/EC208_M3",
+      "n/ece/s4/ec208/EC208_M4",
+      "n/ece/s4/ec208/EC208_M5",
+      "n/ece/s4/ec208/EC208_M6"
+    ],
+    "qp": [
+      "q/ece/s4/ec208/EC208_2017_JUN",
+      "q/ece/s4/ec208/EC208_2017_JUL"
+    ],
+    "t": [
+      "t/ece/s4/ec208/Communication_Systems",
+      "t/ece/s4/ec208/Electronic_Communication_System"
+    ]
+  },
+  {
+    "sub": "EC301",
+    "n": [
+      "sylb/ece/s5/EC301",
+      "n/ece/s5/ec301/EC301_M1",
+      "n/ece/s5/ec301/EC301_M2",
+      "n/ece/s5/ec301/EC301_M3",
+      "n/ece/s5/ec301/EC301_M4",
+      "n/ece/s5/ec301/EC301_M5",
+      "n/ece/s5/ec301/EC301_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC303",
+    "n": [
+      "sylb/ece/s5/EC303",
+      "n/ece/s5/ec303/EC303_M1",
+      "n/ece/s5/ec303/EC303_M2",
+      "n/ece/s5/ec303/EC303_M3",
+      "n/ece/s5/ec303/EC303_M4",
+      "n/ece/s5/ec303/EC303_M5",
+      "n/ece/s5/ec303/EC303_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC305",
+    "n": [
+      "sylb/ece/s5/EC305"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC307",
+    "n": [
+      "sylb/ece/s5/EC307",
+      "n/ece/s5/ec307/EC307_M1",
+      "n/ece/s5/ec307/EC307_M3",
+      "n/ece/s5/ec307/EC307_M5",
+      "n/ece/s5/ec30/EC307_M6"
+    ],
+    "qp": [
+      "q/ece/s3/ec307/EC307_Model_1"
+    ],
+    "t": []
+  },
+  {
+    "sub": "EC365",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC302",
+    "n": [
+      "sylb/ece/s6/EC302",
+      "n/ece/s6/ec302/EC302_M1",
+      "n/ece/s6/ec302/EC302_M2",
+      "n/ece/s6/ec302/EC302_M3",
+      "n/ece/s6/ec302/EC302_M4"
+    ],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec302/Digital_Communication",
+      "t/ece/s6/ec302/Communication_Systems"
+    ]
+  },
+  {
+    "sub": "EC304",
+    "n": [
+      "sylb/ece/s6/EC302",
+      "n/ece/s6/ec304/EC304_M1",
+      "n/ece/s6/ec304/EC304_M2",
+      "n/ece/s6/ec304/EC304_M3",
+      "n/ece/s6/ec304/EC304_M4",
+      "n/ece/s6/ec304/EC304_M5",
+      "n/ece/s6/ec304/EC304_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec304/Design_of_Analog_CMOS_Integrated_Circuits"
+    ]
+  },
+  {
+    "sub": "EC306",
+    "n": [
+      "sylb/ece/s6/EC306",
+      "n/ece/s6/ec306/EC306_M1",
+      "n/ece/s6/ec306/EC306_M2",
+      "n/ece/s6/ec306/EC306_M3",
+      "n/ece/s6/ec306/EC306_M4",
+      "n/ece/s6/ec306/EC306_M5",
+      "n/ece/s6/ec306/EC306_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec306/Antenna_Theory_and_Design",
+      "t/ece/s6/ec306/Antennas_for_all_Applications"
+    ]
+  },
+  {
+    "sub": "EC308",
+    "n": [
+      "sylb/ece/s6/EC308",
+      "n/ece/s6/ec308/EC308_M1",
+      "n/ece/s6/ec308/EC308_M2",
+      "n/ece/s6/ec308/EC308_M3",
+      "n/ece/s6/ec308/EC308_M4",
+      "n/ece/s6/ec308/EC308_M5",
+      "n/ece/s6/ec308/EC308_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec308/An_Embedded_Software_Primer",
+      "t/ece/s6/ec308/Computers_as_Components_Principles_of_Embedded_Computing_System"
+    ]
+  },
+  {
+    "sub": "EC312",
+    "n": [
+      "sylb/ece/s6/EC312",
+      "n/ece/s6/ec312/EC312_M1",
+      "n/ece/s6/ec312/EC312_M2",
+      "n/ece/s6/ec312/EC312_M3",
+      "n/ece/s6/ec312/EC312_M4",
+      "n/ece/s6/ec312/EC312_M5",
+      "n/ece/s6/ec312/EC312_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec312/Android_Programming",
+      "t/ece/s6/ec312/Object_Oriented_Programming_with_C++_&_JAVA"
+    ]
+  },
+  {
+    "sub": "EC362",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec362/Simulation_of_communication"
+    ]
+  },
+  {
+    "sub": "EC366",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec366/Embedded_Systems_Building_Blocks"
+    ]
+  },
+  {
+    "sub": "EC368",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec368/Robot_Dynamics_&_Control"
+    ]
+  },
+  {
+    "sub": "EC370",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/ece/s6/ec370/Digital_Image_Processing"
+    ]
+  },
+  {
+    "sub": "EC401",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC403",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC405",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC407",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC409",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC461",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC463",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC465",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC467",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC469",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC402",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC404",
+    "n": [
+      "sylb/ece/s8/EC404",
+      "n/ece/S8/ec404/EC404_M1",
+      "n/ece/S8/ec404/EC404_M2",
+      "n/ece/S8/ec404/EC404_M3",
+      "n/ece/S8/ec404/EC404_M4",
+      "n/ece/S8/ec404/EC404_M5",
+      "n/ece/S8/ec404/EC404_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC462",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC464",
+    "n": [
+      "sylb/ece/s8/EC464",
+      "n/ece/S8/ec464/EC464_M1",
+      "n/ece/S8/ec464/EC464_M2",
+      "n/ece/S8/ec464/EC464_M3",
+      "n/ece/S8/ec464/EC464_M4",
+      "n/ece/S8/ec464/EC464_M5",
+      "n/ece/S8/ec464/EC464_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC466",
+    "n": [
+      "sylb/ece/s8/EC466",
+      "n/ece/S8/ec466/EC466_M1",
+      "n/ece/S8/ec466/EC466_M2",
+      "n/ece/S8/ec466/EC466_M3",
+      "n/ece/S8/ec466/EC466_M4",
+      "n/ece/S8/ec466/EC466_M5",
+      "n/ece/S8/ec466/EC466_M6"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC468",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC472",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EC474",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME201",
+    "n": [],
+    "qp": [
+      "q/me/s3/me201/ME201_2017_JAN",
+      "q/me/s3/me201/ME201_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "ME203",
+    "n": [],
+    "qp": [
+      "q/me/s3/me203/ME203_2017_JAN",
+      "q/me/s3/me203/ME203_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "ME205",
+    "n": [],
+    "qp": [
+      "q/me/s3/me205/ME205_2017_JAN",
+      "q/me/s3/me205/ME205_2017_JUL"
+    ],
+    "t": []
+  },
+  {
+    "sub": "ME210",
+    "n": [],
+    "qp": [
+      "q/me/s3/me210/ME210_2017_JAN"
+    ],
+    "t": []
+  },
+  {
+    "sub": "ME202",
+    "n": [
+      "sylb/me/s4/ME202",
+      "n/me/s4/me202/ME202_M1",
+      "n/me/s4/me202/ME202_M2",
+      "n/me/s4/me202/ME202_M3",
+      "n/me/s4/me202/ME202_M4",
+      "n/me/s4/me202/ME202_M5",
+      "n/me/s4/me202/ME202_M6"
+    ],
+    "qp": [
+      "q/me/s4/me202/ME202_2017_MAY",
+      "q/me/s4/me202/ME202_2017_JUL"
+    ],
+    "t": [
+      "t/me/s4/me202/Solid_Mechanics",
+      "t/me/s4/me202/Theory_of_Elasticity"
+    ]
+  },
+  {
+    "sub": "ME204",
+    "n": [
+      "sylb/me/s4/ME204",
+      "n/me/s4/me204/ME204_M1",
+      "n/me/s4/me204/ME204_M2",
+      "n/me/s4/me204/ME204_M3",
+      "n/me/s4/me204/ME204_M4",
+      "n/me/s4/me204/ME204_M5"
+    ],
+    "qp": [
+      "q/me/s4/me204/ME204_2017_JUN",
+      "q/me/s4/me204/ME204_2017_JUL"
+    ],
+    "t": [
+      "q/me/s4/me204/ME204_2017_JUN",
+      "q/me/s4/me204/ME204_2017_JUL"
+    ]
+  },
+  {
+    "sub": "ME206",
+    "n": [
+      "sylb/me/s4/ME206",
+      "n/me/s4/me206/ME206_M1",
+      "n/me/s4/me206/ME206_M2",
+      "n/me/s4/me206/ME206_M3",
+      "n/me/s4/me206/ME206_M4",
+      "n/me/s4/me206/ME206_M5",
+      "n/me/s4/me206/ME206_M6"
+    ],
+    "qp": [
+      "q/me/s4/me206/ME206_2017_JUN",
+      "q/me/s4/me206/ME206_2017_JUL"
+    ],
+    "t": [
+      "t/me/s4/me206/Fluid_Mechanics_and_Hydraulic_Machines",
+      "t/me/s4/me206/Introduction_to_Fluid_Mechanics_&_Fluid_Machines"
+    ]
+  },
+  {
+    "sub": "ME220",
+    "n": [
+      "sylb/me/s4/ME220",
+      "n/me/s4/me220/ME220_M1",
+      "n/me/s4/me220/ME220_M2",
+      "n/me/s4/me220/ME220_M3",
+      "n/me/s4/me220/ME220_M4",
+      "n/me/s4/me220/ME220_M5",
+      "n/me/s4/me220/ME220_M6"
+    ],
+    "qp": [
+      "q/me/s4/me220/ME220_2017_JUN",
+      "q/me/s4/me220/ME220_2017_JUL"
+    ],
+    "t": [
+      "t/me/s4/me220/Manufacturing_Engineering_&_Technology"
+    ]
+  },
+  {
+    "sub": "ME301",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME303",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME305",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME367",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "EE311",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME302",
+    "n": [
+      "sylb/me/s6/ME302",
+      "n/me/s6/me302/ME302_M1",
+      "n/me/s6/me302/ME302_M2",
+      "n/me/s6/me302/ME302_M3",
+      "n/me/s6/me302/ME302_M4",
+      "n/me/s6/me302/ME302_M5",
+      "n/me/s6/me302/ME302_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/me/s6/me302/Fundamentals_of_Heat_&_Mass_Transfer",
+      "t/me/s6/me302/Heat_Transfer",
+      "t/me/s6/me302/Heat_transfer-"
+    ]
+  },
+  {
+    "sub": "ME304",
+    "n": [
+      "sylb/me/s6/ME304",
+      "n/me/s6/me304/ME304_M1",
+      "n/me/s6/me304/ME304_M2",
+      "n/me/s6/me304/ME304_M3",
+      "n/me/s6/me304/ME304_M4",
+      "n/me/s6/me304/ME304_M5",
+      "n/me/s6/me304/ME304_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/me/s6/me304/Theory_of_Machines"
+    ]
+  },
+  {
+    "sub": "ME306",
+    "n": [
+      "sylb/me/s6/ME306",
+      "n/me/s6/me306/ME306_M1",
+      "n/me/s6/me306/ME306_M2",
+      "n/me/s6/me306/ME306_M3",
+      "n/me/s6/me306/ME306_M4",
+      "n/me/s6/me306/ME306_M5",
+      "n/me/s6/me306/ME306_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/me/s6/me306/Advanced_Machining_Processes"
+    ]
+  },
+  {
+    "sub": "ME308",
+    "n": [
+      "sylb/me/s6/ME308",
+      "n/me/s6/me308/ME308_M1",
+      "n/me/s6/me308/ME308_M2",
+      "n/me/s6/me308/ME308_M3",
+      "n/me/s6/me308/ME308_M4",
+      "n/me/s6/me308/ME308_M5",
+      "n/me/s6/me308/ME308_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/me/s6/me308/Computer_Aided_Design_&_Manufacturing"
+    ]
+  },
+  {
+    "sub": "ME312",
+    "n": [
+      "sylb/me/s6/ME312",
+      "n/me/s6/me312/ME312_M1",
+      "n/me/s6/me312/ME312_M2",
+      "n/me/s6/me312/ME312_M3",
+      "n/me/s6/me312/ME312_M4",
+      "n/me/s6/me312/ME312_M5",
+      "n/me/s6/me312/ME312_M6"
+    ],
+    "qp": [],
+    "t": [
+      "t/me/s6/me312/Metrology_&_Measurement"
+    ]
+  },
+  {
+    "sub": "ME362",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/me/s6/me362/Automatic_Control_Systems",
+      "t/me/s6/me362/Control_Systems_Engineering"
+    ]
+  },
+  {
+    "sub": "ME364",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/me/s6/me364/Gas_Turbines",
+      "t/me/s6/me364/Fluid_Mechanics_and_Thermodynamics_of_Turbomachinery"
+    ]
+  },
+  {
+    "sub": "ME366",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME368",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME372",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME374",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME376",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME401",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME403",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME405",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME407",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME409",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME461",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME463",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME465",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "IE306",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME467",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME469",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME471",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME402",
+    "n": [
+      "sylb/me/s8/ME402"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME404",
+    "n": [
+      "sylb/me/s8/ME404"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME462",
+    "n": [
+      "sylb/me/s8/ME462"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME464",
+    "n": [
+      "sylb/me/s8/ME464"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME466",
+    "n": [
+      "sylb/me/s8/ME466"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME468",
+    "n": [
+      "sylb/me/s8/ME468"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME472",
+    "n": [
+      "sylb/me/s8/ME472"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME474",
+    "n": [
+      "sylb/me/s8/ME474"
+    ],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "ME476",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP201",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP202",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP204",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP206",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP208",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP301",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP303",
+    "n": [],
+    "qp": [],
+    "t": []
+  },
+  {
+    "sub": "MP361",
+    "n": [],
+    "qp": [],
+    "t": []
+  }
 ]
