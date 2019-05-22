@@ -805,7 +805,13 @@
   {
     "sub": "CS404",
     "n": [
-      "sylb/cse/s8/CS404"
+      "sylb/cse/s8/CS404",
+      "n/cse/s8/cs404/CS404_M1",
+      "n/cse/s8/cs404/CS404_M2",
+      "n/cse/s8/cs404/CS404_M3",
+      "n/cse/s8/cs404/CS404_M4",
+      "n/cse/s8/cs404/CS404_M5",
+      "n/cse/s8/cs404/CS404_M6"
     ],
     "qp": [],
     "t": []
