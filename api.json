@@ -340,19 +340,16 @@
   {
     "sub": "HS300",
     "n": [
-      "sylb/cse/s3/HS300",
-      "n/cse/s3/hs300/HS300_M1",
-      "n/cse/s3/hs300/HS300_M2",
-      "n/cse/s3/hs300/HS300_M3",
-      "n/cse/s3/hs300/HS300_M4",
-      "n/cse/s3/hs300/HS300_M5",
-      "n/cse/s3/hs300/HS300_M6"
+      "sylb/cse/s6/HS300",
+      "n/cse/s6/hs300/HS300_M1",
+      "n/cse/s6/hs300/HS300_M2",
+      "n/cse/s6/hs300/HS300_M3",
+      "n/cse/s6/hs300/HS300_M4",
+      "n/cse/s6/hs300/HS300_M5",
+      "n/cse/s6/hs300/HS300_M6"
     ],
     "qp": [],
-    "t": [
-      "t/cse/s6/hs300/Essentials_of_Management",
-      "t/cse/s6/hs300/Principles_of_Management"
-    ]
+    "t": []
   },
   {
     "sub": "CS201",
@@ -641,7 +638,7 @@
     ],
     "qp": [],
     "t": [
-      "t/cse/s6/cs304/Compilers_–_Principles_Techniques_&_Tools",
+      "t/cse/s6/cs304/Compilers_Principles_Techniques_&_Tools",
       "t/cse/s6/cs304/System_Programming_&_Operating_Systems"
     ]
   },
@@ -721,7 +718,7 @@
     "sub": "CS368",
     "n": [
       "sylb/cse/s6/CS368",
-      "n/cse/s6/cs3628/CS368_M1",
+      "n/cse/s6/cs368/CS368_M1",
       "n/cse/s6/cs368/CS368_M2",
       "n/cse/s6/cs368/CS368_M3",
       "n/cse/s6/cs368/CS368_M4",
@@ -738,16 +735,16 @@
     "sub": "CS372",
     "n": [],
     "qp": [],
-    "t": [
-      "t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
-      "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
-    ]
+    "t": []
   },
   {
     "sub": "CS401",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
+      "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
+    ]
   },
   {
     "sub": "CS403",
@@ -1316,13 +1313,13 @@
   {
     "sub": "EE202",
     "n": [
-      "sylb/ee/s4/EE202",
-      "n/ee/s4/ee202/EE202_M1",
-      "n/ee/s4/ee202/EE202_M2",
-      "n/ee/s4/ee202/EE202_M3",
-      "n/ee/s4/ee202/EE202_M4",
-      "n/ee/s4/ee202/EE202_M5",
-      "n/ee/s4/ee202/EE202_M6"
+      "sylb/eee/s4/EE202",
+      "n/eee/s4/ee202/EE202_M1",
+      "n/eee/s4/ee202/EE202_M2",
+      "n/eee/s4/ee202/EE202_M3",
+      "n/eee/s4/ee202/EE202_M4",
+      "n/eee/s4/ee202/EE202_M5",
+      "n/eee/s4/ee202/EE202_M6"
     ],
     "qp": [
       "q/eee/s4/ee202/EE202_2017_MAY",
@@ -1336,13 +1333,13 @@
   {
     "sub": "EE204",
     "n": [
-      "sylb/ee/s4/EE204",
-      "n/ee/s4/ee204/EE204_M1",
-      "n/ee/s4/ee204/EE204_M2",
-      "n/ee/s4/ee204/EE204_M3",
-      "n/ee/s4/ee204/EE204_M4",
-      "n/ee/s4/ee204/EE204_M5",
-      "n/ee/s4/ee204/EE204_M6"
+      "sylb/eee/s4/EE204",
+      "n/eee/s4/ee204/EE204_M1",
+      "n/eee/s4/ee204/EE204_M2",
+      "n/eee/s4/ee204/EE204_M3",
+      "n/eee/s4/ee204/EE204_M4",
+      "n/eee/s4/ee204/EE204_M5",
+      "n/eee/s4/ee204/EE204_M6"
     ],
     "qp": [
       "q/eee/s4/ee204/EE204_2017_JUN",
@@ -1356,13 +1353,13 @@
   {
     "sub": "EE206",
     "n": [
-      "sylb/ee/s4/EE206",
-      "n/ee/s4/ee206/EE206_M1",
-      "n/ee/s4/ee206/EE206_M2",
-      "n/ee/s4/ee206/EE206_M3",
-      "n/ee/s4/ee206/EE206_M4",
-      "n/ee/s4/ee206/EE206_M5",
-      "n/ee/s4/ee206/EE206_M6"
+      "sylb/eee/s4/EE206",
+      "n/eee/s4/ee206/EE206_M1",
+      "n/eee/s4/ee206/EE206_M2",
+      "n/eee/s4/ee206/EE206_M3",
+      "n/eee/s4/ee206/EE206_M4",
+      "n/eee/s4/ee206/EE206_M5",
+      "n/eee/s4/ee206/EE206_M6"
     ],
     "qp": [
       "q/eee/s4/ee206/EE206_2017_JUN",
@@ -1375,13 +1372,13 @@
   {
     "sub": "EE208",
     "n": [
-      "sylb/ee/s4/EE208",
-      "n/ee/s4/ee208/EE208_M1",
-      "n/ee/s4/ee208/EE208_M2",
-      "n/ee/s4/ee208/EE208_M3",
-      "n/ee/s4/ee208/EE208_M4",
-      "n/ee/s4/ee208/EE208_M5",
-      "n/ee/s4/ee208/EE208_M6"
+      "sylb/eee/s4/EE208",
+      "n/eee/s4/ee208/EE208_M1",
+      "n/eee/s4/ee208/EE208_M2",
+      "n/eee/s4/ee208/EE208_M3",
+      "n/eee/s4/ee208/EE208_M4",
+      "n/eee/s4/ee208/EE208_M5",
+      "n/eee/s4/ee208/EE208_M6"
     ],
     "qp": [
       "q/eee/s4/ee208/EE208_2017_JUN",
@@ -1406,13 +1403,13 @@
   {
     "sub": "EE305",
     "n": [
-      "sylb/ee/s5/EE305",
-      "n/ee/s5/ee305/EE305_M1",
-      "n/ee/s5/ee305/EE305_M2",
-      "n/ee/s5/ee305/EE305_M3",
-      "n/ee/s5/ee305/EE305_M4",
-      "n/ee/s5/ee305/EE305_M5",
-      "n/ee/s5/ee305/EE305_M6"
+      "sylb/eee/s5/EE305",
+      "n/eee/s5/ee305/EE305_M1",
+      "n/eee/s5/ee305/EE305_M2",
+      "n/eee/s5/ee305/EE305_M3",
+      "n/eee/s5/ee305/EE305_M4",
+      "n/eee/s5/ee305/EE305_M5",
+      "n/eee/s5/ee305/EE305_M6"
     ],
     "qp": [],
     "t": []
@@ -1438,13 +1435,13 @@
   {
     "sub": "EE302",
     "n": [
-      "sylb/ee/s6/EE302",
-      "n/ee/s6/ee302/EE302_M1",
-      "n/ee/s6/ee302/EE302_M2",
-      "n/ee/s6/ee302/EE302_M3",
-      "n/ee/s6/ee302/EE302_M4",
-      "n/ee/s6/ee302/EE302_M5",
-      "n/ee/s6/ee302/EE302_M6"
+      "sylb/eee/s6/EE302",
+      "n/eee/s6/ee302/EE302_M1",
+      "n/eee/s6/ee302/EE302_M2",
+      "n/eee/s6/ee302/EE302_M3",
+      "n/eee/s6/ee302/EE302_M4",
+      "n/eee/s6/ee302/EE302_M5",
+      "n/eee/s6/ee302/EE302_M6"
     ],
     "qp": [],
     "t": [
@@ -1455,13 +1452,13 @@
   {
     "sub": "EE304",
     "n": [
-      "sylb/ee/s6/EE304",
-      "n/ee/s6/ee304/EE304_M1",
-      "n/ee/s6/ee304/EE304_M2",
-      "n/ee/s6/ee304/EE304_M3",
-      "n/ee/s6/ee304/EE304_M4",
-      "n/ee/s6/ee304/EE304_M5",
-      "n/ee/s6/ee304/EE304_M6"
+      "sylb/eee/s6/EE304",
+      "n/eee/s6/ee304/EE304_M1",
+      "n/eee/s6/ee304/EE304_M2",
+      "n/eee/s6/ee304/EE304_M3",
+      "n/eee/s6/ee304/EE304_M4",
+      "n/eee/s6/ee304/EE304_M5",
+      "n/eee/s6/ee304/EE304_M6"
     ],
     "qp": [],
     "t": [
@@ -1475,13 +1472,13 @@
   {
     "sub": "EE306",
     "n": [
-      "sylb/ee/s6/EE306",
-      "n/ee/s6/ee306/EE306_M1",
-      "n/ee/s6/ee306/EE306_M2",
-      "n/ee/s6/ee306/EE306_M3",
-      "n/ee/s6/ee306/EE306_M4",
-      "n/ee/s6/ee306/EE306_M5",
-      "n/ee/s6/ee306/EE306_M6"
+      "sylb/eee/s6/EE306",
+      "n/eee/s6/ee306/EE306_M1",
+      "n/eee/s6/ee306/EE306_M2",
+      "n/eee/s6/ee306/EE306_M3",
+      "n/eee/s6/ee306/EE306_M4",
+      "n/eee/s6/ee306/EE306_M5",
+      "n/eee/s6/ee306/EE306_M6"
     ],
     "qp": [],
     "t": [
@@ -1492,11 +1489,11 @@
   {
     "sub": "EE308",
     "n": [
-      "sylb/ee/s6/EE308",
-      "n/ee/s6/ee308/EE308_M1",
-      "n/ee/s6/ee308/EE308_M2",
-      "n/ee/s6/ee308/EE308_M3",
-      "n/ee/s6/ee308/EE308_M4",
+      "sylb/eee/s6/EE308",
+      "n/eee/s6/ee308/EE308_M1",
+      "n/eee/s6/ee308/EE308_M2",
+      "n/eee/s6/ee308/EE308_M3",
+      "n/eee/s6/ee308/EE308_M4",
       "n/ee/s6/ee308/EE308_M6"
     ],
     "qp": [],
@@ -1535,13 +1532,13 @@
   {
     "sub": "EE368",
     "n": [
-      "sylb/ee/s6/EE368",
-      "n/ee/s6/ee368/EE368_M1",
-      "n/ee/s6/ee368/EE368_M2",
-      "n/ee/s6/ee368/EE368_M3",
-      "n/ee/s6/ee368/EE368_M4",
-      "n/ee/s6/ee368/EE368_M5",
-      "n/ee/s6/ee368/EE368_M6"
+      "sylb/eee/s6/EE368",
+      "n/eee/s6/ee368/EE368_M1",
+      "n/eee/s6/ee368/EE368_M2",
+      "n/eee/s6/ee368/EE368_M3",
+      "n/eee/s6/ee368/EE368_M4",
+      "n/eee/s6/ee368/EE368_M5",
+      "n/eee/s6/ee368/EE368_M6"
     ],
     "qp": [],
     "t": [
@@ -1668,13 +1665,13 @@
   {
     "sub": "EC201",
     "n": [
-      "sylb/ec/s3/EC201",
-      "n/ec/s3/ec201/EC201_M1",
-      "n/ec/s3/ec201/EC201_M2",
-      "n/ec/s3/ec201/EC201_M3",
-      "n/ec/s3/ec201/EC201_M4",
-      "n/ec/s3/ec201/EC201_M5",
-      "n/ec/s3/ec201/EC201_M6"
+      "sylb/ece/s3/EC201",
+      "n/ece/s3/ec201/EC201_M1",
+      "n/ece/s3/ec201/EC201_M2",
+      "n/ece/s3/ec201/EC201_M3",
+      "n/ece/s3/ec201/EC201_M4",
+      "n/ece/s3/ec201/EC201_M5",
+      "n/ece/s3/ec201/EC201_M6"
     ],
     "qp": [
       "q/ece/s3/ec201/EC201_2017_JAN",
@@ -1685,13 +1682,13 @@
   {
     "sub": "EC203",
     "n": [
-      "sylb/ec/s3/EC203",
-      "n/ec/s3/ec203/EC203_M1",
-      "n/ec/s3/ec203/EC203_M2",
-      "n/ec/s3/ec203/EC203_M3",
-      "n/ec/s3/ec203/EC203_M4",
-      "n/ec/s3/ec203/EC203_M5",
-      "n/ec/s3/ec203/EC203_M6"
+      "sylb/ece/s3/EC203",
+      "n/ece/s3/ec203/EC203_M1",
+      "n/ece/s3/ec203/EC203_M2",
+      "n/ece/s3/ec203/EC203_M3",
+      "n/ece/s3/ec203/EC203_M4",
+      "n/ece/s3/ec203/EC203_M5",
+      "n/ece/s3/ec203/EC203_M6"
     ],
     "qp": [
       "q/ece/s3/ec203/EC203_2017_JAN",
@@ -1702,13 +1699,13 @@
   {
     "sub": "EC205",
     "n": [
-      "sylb/ec/s3/EC205",
-      "n/ec/s3/ec205/EC205_M1",
-      "n/ec/s3/ec205/EC205_M2",
-      "n/ec/s3/ec205/EC205_M3",
-      "n/ec/s3/ec205/EC205_M4",
-      "n/ec/s3/ec205/EC205_M5",
-      "n/ec/s3/ec205/EC205_M6"
+      "sylb/ece/s3/EC205",
+      "n/ece/s3/ec205/EC205_M1",
+      "n/ece/s3/ec205/EC205_M2",
+      "n/ece/s3/ec205/EC205_M3",
+      "n/ece/s3/ec205/EC205_M4",
+      "n/ece/s3/ec205/EC205_M5",
+      "n/ece/s3/ec205/EC205_M6"
     ],
     "qp": [
       "q/ece/s3/ec205/EC205_2017_JAN",
@@ -1719,13 +1716,13 @@
   {
     "sub": "EC207",
     "n": [
-      "sylb/ec/s3/EC207",
-      "n/ec/s3/ec207/EC207_M1",
-      "n/ec/s3/ec207/EC207_M2",
-      "n/ec/s3/ec207/EC207_M3",
-      "n/ec/s3/ec207/EC207_M4",
-      "n/ec/s3/ec207/EC207_M5",
-      "n/ec/s3/ec207/EC207_M6"
+      "sylb/ece/s3/EC207",
+      "n/ece/s3/ec207/EC207_M1",
+      "n/ece/s3/ec207/EC207_M2",
+      "n/ece/s3/ec207/EC207_M3",
+      "n/ece/s3/ec207/EC207_M4",
+      "n/ece/s3/ec207/EC207_M5",
+      "n/ece/s3/ec207/EC207_M6"
     ],
     "qp": [
       "q/ece/s3/ec207/EC207_2017_JAN",
@@ -1736,11 +1733,11 @@
   {
     "sub": "MA204",
     "n": [
-      "sylb/ec/s4/MA204",
-      "n/ec/s4/ma204/MA204_M1",
-      "n/ec/s4/ma204/MA204_M3",
-      "n/ec/s4/ma204/MA204_M5",
-      "n/ec/s4/ma204/MA204_M6"
+      "sylb/ece/s4/MA204",
+      "n/ece/s4/ma204/MA204_M1",
+      "n/ece/s4/ma204/MA204_M3",
+      "n/ece/s4/ma204/MA204_M5",
+      "n/ece/s4/ma204/MA204_M6"
     ],
     "qp": [
       "q/ece/s4/ma204/MA204_2017_MAY",
@@ -1753,13 +1750,13 @@
   {
     "sub": "EC202",
     "n": [
-      "sylb/ec/s4/EC202",
-      "n/ec/s4/ec202/EC202_M1",
-      "n/ec/s4/ec202/EC202_M2",
-      "n/ec/s4/ec202/EC202_M3",
-      "n/ec/s4/ec202/EC202_M4",
-      "n/ec/s4/ec202/EC202_M5",
-      "n/ec/s4/ec202/EC202_M6"
+      "sylb/ece/s4/EC202",
+      "n/ece/s4/ec202/EC202_M1",
+      "n/ece/s4/ec202/EC202_M2",
+      "n/ece/s4/ec202/EC202_M3",
+      "n/ece/s4/ec202/EC202_M4",
+      "n/ece/s4/ec202/EC202_M5",
+      "n/ece/s4/ec202/EC202_M6"
     ],
     "qp": [
       "q/ece/s4/ec202/EC202_2017_MAY",
@@ -1773,13 +1770,13 @@
   {
     "sub": "EC204",
     "n": [
-      "sylb/ec/s4/EC204",
-      "n/ec/s4/ec204/EC204_M1",
-      "n/ec/s4/ec204/EC204_M2",
-      "n/ec/s4/ec204/EC204_M3",
-      "n/ec/s4/ec204/EC204_M4",
-      "n/ec/s4/ec204/EC204_M5",
-      "n/ec/s4/ec204/EC204_M6"
+      "sylb/ece/s4/EC204",
+      "n/ece/s4/ec204/EC204_M1",
+      "n/ece/s4/ec204/EC204_M2",
+      "n/ece/s4/ec204/EC204_M3",
+      "n/ece/s4/ec204/EC204_M4",
+      "n/ece/s4/ec204/EC204_M5",
+      "n/ece/s4/ec204/EC204_M6"
     ],
     "qp": [
       "q/ece/s4/ec204/EC204_2017_JUN",
@@ -1792,13 +1789,13 @@
   {
     "sub": "EC206",
     "n": [
-      "sylb/ec/s4/EC206",
-      "n/ec/s4/ec206/EC206_M1",
-      "n/ec/s4/ec206/EC206_M2",
-      "n/ec/s4/ec206/EC206_M3",
-      "n/ec/s4/ec206/EC206_M4",
-      "n/ec/s4/ec206/EC206_M5",
-      "n/ec/s4/ec206/EC206_M6"
+      "sylb/ece/s4/EC206",
+      "n/ece/s4/ec206/EC206_M1",
+      "n/ece/s4/ec206/EC206_M2",
+      "n/ece/s4/ec206/EC206_M3",
+      "n/ece/s4/ec206/EC206_M4",
+      "n/ece/s4/ec206/EC206_M5",
+      "n/ece/s4/ec206/EC206_M6"
     ],
     "qp": [
       "q/ece/s4/ec206/EC206_2017_JUN",
@@ -1812,13 +1809,13 @@
   {
     "sub": "EC208",
     "n": [
-      "sylb/ec/s4/EC208",
-      "n/ec/s4/ec208/EC208_M1",
-      "n/ec/s4/ec208/EC208_M2",
-      "n/ec/s4/ec208/EC208_M3",
-      "n/ec/s4/ec208/EC208_M4",
-      "n/ec/s4/ec208/EC208_M5",
-      "n/ec/s4/ec208/EC208_M6"
+      "sylb/ece/s4/EC208",
+      "n/ece/s4/ec208/EC208_M1",
+      "n/ece/s4/ec208/EC208_M2",
+      "n/ece/s4/ec208/EC208_M3",
+      "n/ece/s4/ec208/EC208_M4",
+      "n/ece/s4/ec208/EC208_M5",
+      "n/ece/s4/ec208/EC208_M6"
     ],
     "qp": [
       "q/ece/s4/ec208/EC208_2017_JUN",
@@ -1832,13 +1829,13 @@
   {
     "sub": "EC301",
     "n": [
-      "sylb/ec/s5/EC301",
-      "n/ec/s5/ec301/EC301_M1",
-      "n/ec/s5/ec301/EC301_M2",
-      "n/ec/s5/ec301/EC301_M3",
-      "n/ec/s5/ec301/EC301_M4",
-      "n/ec/s5/ec301/EC301_M5",
-      "n/ec/s5/ec301/EC301_M6"
+      "sylb/ece/s5/EC301",
+      "n/ece/s5/ec301/EC301_M1",
+      "n/ece/s5/ec301/EC301_M2",
+      "n/ece/s5/ec301/EC301_M3",
+      "n/ece/s5/ec301/EC301_M4",
+      "n/ece/s5/ec301/EC301_M5",
+      "n/ece/s5/ec301/EC301_M6"
     ],
     "qp": [],
     "t": []
@@ -1846,13 +1843,13 @@
   {
     "sub": "EC303",
     "n": [
-      "sylb/ec/s5/EC303",
-      "n/ec/s5/ec303/EC303_M1",
-      "n/ec/s5/ec303/EC303_M2",
-      "n/ec/s5/ec303/EC303_M3",
-      "n/ec/s5/ec303/EC303_M4",
-      "n/ec/s5/ec303/EC303_M5",
-      "n/ec/s5/ec303/EC303_M6"
+      "sylb/ece/s5/EC303",
+      "n/ece/s5/ec303/EC303_M1",
+      "n/ece/s5/ec303/EC303_M2",
+      "n/ece/s5/ec303/EC303_M3",
+      "n/ece/s5/ec303/EC303_M4",
+      "n/ece/s5/ec303/EC303_M5",
+      "n/ece/s5/ec303/EC303_M6"
     ],
     "qp": [],
     "t": []
@@ -1860,7 +1857,7 @@
   {
     "sub": "EC305",
     "n": [
-      "sylb/ec/s5/EC305"
+      "sylb/ece/s5/EC305"
     ],
     "qp": [],
     "t": []
@@ -1868,11 +1865,11 @@
   {
     "sub": "EC307",
     "n": [
-      "sylb/ec/s5/EC307",
-      "n/ec/s5/ec307/EC307_M1",
-      "n/ec/s5/ec307/EC307_M3",
-      "n/ec/s5/ec307/EC307_M5",
-      "n/ec/s5/ec30/EC307_M6"
+      "sylb/ece/s5/EC307",
+      "n/ece/s5/ec307/EC307_M1",
+      "n/ece/s5/ec307/EC307_M3",
+      "n/ece/s5/ec307/EC307_M5",
+      "n/ece/s5/ec30/EC307_M6"
     ],
     "qp": [
       "q/ece/s3/ec307/EC307_Model_1"
@@ -1888,11 +1885,11 @@
   {
     "sub": "EC302",
     "n": [
-      "sylb/ec/s6/EC302",
-      "n/ec/s6/ec302/EC302_M1",
-      "n/ec/s6/ec302/EC302_M2",
-      "n/ec/s6/ec302/EC302_M3",
-      "n/ec/s6/ec302/EC302_M4"
+      "sylb/ece/s6/EC302",
+      "n/ece/s6/ec302/EC302_M1",
+      "n/ece/s6/ec302/EC302_M2",
+      "n/ece/s6/ec302/EC302_M3",
+      "n/ece/s6/ec302/EC302_M4"
     ],
     "qp": [],
     "t": [
@@ -1903,13 +1900,13 @@
   {
     "sub": "EC304",
     "n": [
-      "sylb/ec/s6/EC302",
-      "n/ec/s6/ec304/EC304_M1",
-      "n/ec/s6/ec304/EC304_M2",
-      "n/ec/s6/ec304/EC304_M3",
-      "n/ec/s6/ec304/EC304_M4",
-      "n/ec/s6/ec304/EC304_M5",
-      "n/ec/s6/ec304/EC304_M6"
+      "sylb/ece/s6/EC302",
+      "n/ece/s6/ec304/EC304_M1",
+      "n/ece/s6/ec304/EC304_M2",
+      "n/ece/s6/ec304/EC304_M3",
+      "n/ece/s6/ec304/EC304_M4",
+      "n/ece/s6/ec304/EC304_M5",
+      "n/ece/s6/ec304/EC304_M6"
     ],
     "qp": [],
     "t": [
@@ -1919,13 +1916,13 @@
   {
     "sub": "EC306",
     "n": [
-      "sylb/ec/s6/EC306",
-      "n/ec/s6/ec306/EC306_M1",
-      "n/ec/s6/ec306/EC306_M2",
-      "n/ec/s6/ec306/EC306_M3",
-      "n/ec/s6/ec306/EC306_M4",
-      "n/ec/s6/ec306/EC306_M5",
-      "n/ec/s6/ec306/EC306_M6"
+      "sylb/ece/s6/EC306",
+      "n/ece/s6/ec306/EC306_M1",
+      "n/ece/s6/ec306/EC306_M2",
+      "n/ece/s6/ec306/EC306_M3",
+      "n/ece/s6/ec306/EC306_M4",
+      "n/ece/s6/ec306/EC306_M5",
+      "n/ece/s6/ec306/EC306_M6"
     ],
     "qp": [],
     "t": [
@@ -1936,13 +1933,13 @@
   {
     "sub": "EC308",
     "n": [
-      "sylb/ec/s6/EC308",
-      "n/ec/s6/ec308/EC308_M1",
-      "n/ec/s6/ec308/EC308_M2",
-      "n/ec/s6/ec308/EC308_M3",
-      "n/ec/s6/ec308/EC308_M4",
-      "n/ec/s6/ec308/EC308_M5",
-      "n/ec/s6/ec308/EC308_M6"
+      "sylb/ece/s6/EC308",
+      "n/ece/s6/ec308/EC308_M1",
+      "n/ece/s6/ec308/EC308_M2",
+      "n/ece/s6/ec308/EC308_M3",
+      "n/ece/s6/ec308/EC308_M4",
+      "n/ece/s6/ec308/EC308_M5",
+      "n/ece/s6/ec308/EC308_M6"
     ],
     "qp": [],
     "t": [
@@ -1953,13 +1950,13 @@
   {
     "sub": "EC312",
     "n": [
-      "sylb/ec/s6/EC312",
-      "n/ec/s6/ec312/EC312_M1",
-      "n/ec/s6/ec312/EC312_M2",
-      "n/ec/s6/ec312/EC312_M3",
-      "n/ec/s6/ec312/EC312_M4",
-      "n/ec/s6/ec312/EC312_M5",
-      "n/ec/s6/ec312/EC312_M6"
+      "sylb/ece/s6/EC312",
+      "n/ece/s6/ec312/EC312_M1",
+      "n/ece/s6/ec312/EC312_M2",
+      "n/ece/s6/ec312/EC312_M3",
+      "n/ece/s6/ec312/EC312_M4",
+      "n/ece/s6/ec312/EC312_M5",
+      "n/ece/s6/ec312/EC312_M6"
     ],
     "qp": [],
     "t": [
@@ -2067,7 +2064,15 @@
   },
   {
     "sub": "EC404",
-    "n": [],
+    "n": [
+      "sylb/ece/s8/EC404",
+      "n/ece/S8/ec404/EC404_M1",
+      "n/ece/S8/ec404/EC404_M2",
+      "n/ece/S8/ec404/EC404_M3",
+      "n/ece/S8/ec404/EC404_M4",
+      "n/ece/S8/ec404/EC404_M5",
+      "n/ece/S8/ec404/EC404_M6"
+    ],
     "qp": [],
     "t": []
   },
@@ -2079,20 +2084,28 @@
   },
   {
     "sub": "EC464",
-    "n": [],
+    "n": [
+      "sylb/ece/s8/EC464",
+      "n/ece/S8/ec464/EC464_M1",
+      "n/ece/S8/ec464/EC464_M2",
+      "n/ece/S8/ec464/EC464_M3",
+      "n/ece/S8/ec464/EC464_M4",
+      "n/ece/S8/ec464/EC464_M5",
+      "n/ece/S8/ec464/EC464_M6"
+    ],
     "qp": [],
     "t": []
   },
   {
     "sub": "EC466",
     "n": [
-      "sylb/ec/s8/EC466",
-      "n/ec/S8/ec466/EC466_M1",
-      "n/ec/S8/ec466/EC466_M2",
-      "n/ec/S8/ec466/EC466_M3",
-      "n/ec/S8/ec466/EC466_M4",
-      "n/ec/S8/ec466/EC466_M5",
-      "n/ec/S8/ec466/EC466_M6"
+      "sylb/ece/s8/EC466",
+      "n/ece/S8/ec466/EC466_M1",
+      "n/ece/S8/ec466/EC466_M2",
+      "n/ece/S8/ec466/EC466_M3",
+      "n/ece/S8/ec466/EC466_M4",
+      "n/ece/S8/ec466/EC466_M5",
+      "n/ece/S8/ec466/EC466_M6"
     ],
     "qp": [],
     "t": []
@@ -2185,7 +2198,8 @@
       "q/me/s4/me204/ME204_2017_JUL"
     ],
     "t": [
-      "t/me/s4/me204/Thermal_Engineering"
+      "q/me/s4/me204/ME204_2017_JUN",
+      "q/me/s4/me204/ME204_2017_JUL"
     ]
   },
   {
