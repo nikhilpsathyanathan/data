@@ -918,7 +918,13 @@
   {
     "sub": "CS468",
     "n": [
-      "sylb/cse/s8/CS468"
+      "sylb/cse/s8/CS468",
+      "n/cse/s8/cs468/CS468_M1",
+      "n/cse/s8/cs468/CS468_M2",
+      "n/cse/s8/cs468/CS468_M3",
+      "n/cse/s8/cs468/CS468_M4",
+      "n/cse/s8/cs468/CS468_M5",
+      "n/cse/s8/cs468/CS468_M6"
     ],
     "qp": [],
     "t": []
