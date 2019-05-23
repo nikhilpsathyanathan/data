@@ -360,7 +360,9 @@
       "q/cse/s3/cs201/CS201_2017_JAN",
       "q/cse/s3/cs201/CS201_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/cse/s3/cs201/Discrete_and_combinatorial_mathematics"
+    ]
   },
   {
     "sub": "CS203",
@@ -371,7 +373,9 @@
       "q/cse/s3/cs203/CS203_2017_JAN",
       "q/cse/s3/cs203/CS203_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/cse/s3/cs205/cs203/Digital_logic_&_computer_design"
+    ]
   },
   {
     "sub": "CS205",
@@ -388,7 +392,10 @@
       "q/cse/s3/cs205/CS205_2017_JAN",
       "q/cse/s3/cs205/CS205_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs205/Data structures_ a_pseudocode_approach",
+      "t/cse/s5/cs205/Data_structure"
+    ]
   },
   {
     "sub": "CS207",
@@ -404,7 +411,9 @@
     "qp": [
       "q/cse/s3/cs207/CS207_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs207/Electronic_devices_&_circuits"
+    ]
   },
   {
     "sub": "MA202",
@@ -516,7 +525,11 @@
       "q/cse/s5/cs301/CS301_Model_2",
       "q/cse/s5/cs301/CS301_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs301/Fundamentals_of_Database_Systems",
+      "t/cse/s5/cs301/Introduction_to_languages_and_theory_of_computation",
+      "t/cse/s5/cs301/Introduction_to_the_theory_of_computation"
+    ]
   },
   {
     "sub": "CS303",
@@ -534,7 +547,9 @@
       "q/cse/s5/cs303/CS303_Model_2",
       "q/cse/s5/cs303/CS303_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs303/System_software_an_introduction_to_systems_programming"
+    ]
   },
   {
     "sub": "CS305",
@@ -552,7 +567,9 @@
       "q/cse/s5/cs305/CS305_Model_2",
       "q/cse/s5/cs305/CS305_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs305/Advanced_microprocessors_and_peripherals"
+    ]
   },
   {
     "sub": "CS307",
@@ -570,7 +587,11 @@
       "q/cse/s5/cs307/CS307_Model_2",
       "q/cse/s5/cs307/CS307_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs307/Data_and_computer_communications",
+      "t/cse/s5/cs307/Data_communications_and_networking",
+      "t/cse/s5/cs307/Mobile_communications"
+    ]
   },
   {
     "sub": "CS309",
@@ -588,7 +609,11 @@
       "q/cse/s5/cs309/CS309_Model_2",
       "q/cse/s5/cs309/CS309_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs309/Graph_theory",
+      "t/cse/s5/cs309/Graph_theory_with_applications_to_engineering_and_computer_science",
+      "t/cse/s5/cs309/Introduction_to_graph_theory"
+    ]
   },
   {
     "sub": "CS361",
@@ -606,7 +631,10 @@
       "q/cse/s5/cs361/CS361_Model_2",
       "q/cse/s5/cs361/CS361_Model_3"
     ],
-    "t": []
+    "t": [
+      "t/cse/s5/cs361/Fuzzy_Logic_with_Engineering_Applications",
+      "t/cse/s5/cs361/Principle_Of_Soft_Computing"
+    ]
   },
   {
     "sub": "CS302",
@@ -735,34 +763,51 @@
     "sub": "CS372",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s6/cs372/10.1.1.304.3933",
+      "t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
+      "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
+    ]
   },
   {
     "sub": "CS401",
     "n": [],
     "qp": [],
     "t": [
-      "t/cse/s6/cs372/Computer_Architecture_&_Parallel_Processing",
-      "t/cse/s6/cs372/Introduction_to_High_Performance_Computing_for_Scientists_&_Engineers"
+      "t/cse/s7/cs401/Computer_Graphics_C_Version_-_Hearn_&_Baker"
     ]
   },
   {
     "sub": "CS403",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s7/cs403/Programing_language_paradigm"
+    ]
   },
   {
     "sub": "CS405",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s7/cs405/Advanced_Computer_Architecture_-_Parallelism_Scalability_&_Programmability"
+    ]
+  },
+  {
+    "sub": "CS407",
+    "n": [],
+    "qp": [],
+    "t": [
+      "t/cse/s7/cs407/Distributed_Operating_Systems_Concepts_and_Design"
+    ]
   },
   {
     "sub": "CS409",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s7/cs409/Cryptography_and_network_security"
+    ]
   },
   {
     "sub": "CS461",
@@ -786,7 +831,10 @@
     "sub": "CS467",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s7/cs467/Introduction_to_Machine_Learning",
+      "t/cse/s7/cs467/Notes_On_Machine_Learning_For_BTech"
+    ]
   },
   {
     "sub": "CS469",
@@ -797,10 +845,18 @@
   {
     "sub": "CS402",
     "n": [
-      "sylb/cse/s8/CS402"
+      "sylb/cse/s8/CS402",
+      "n/cse/s8/cs402/CS402_M1",
+      "n/cse/s8/cs402/CS402_M2",
+      "n/cse/s8/cs402/CS402_M3",
+      "n/cse/s8/cs402/CS402_M4",
+      "n/cse/s8/cs402/CS402_M5",
+      "n/cse/s8/cs402/CS402_M6"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s8/cs402/Data_Mining_Concepts_and_Techniques"
+    ]
   },
   {
     "sub": "CS404",
@@ -814,7 +870,10 @@
       "n/cse/s8/cs404/CS404_M6"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s8/cs404/Computers_as_components_principles_of_embedded_computing_system_design",
+      "t/cse/s8/cs404/Embedded_Systems_Design.pdf"
+    ]
   },
   {
     "sub": "CS462",
@@ -838,7 +897,9 @@
       "sylb/cse/s8/CS466"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/cse/s8/cs466/Mastering_Python_for_Data_Science.pdf"
+    ]
   },
   {
     "sub": "CS468",
@@ -866,7 +927,10 @@
       "q/ce/s3/ce201/CE201_2017_JAN",
       "q/ce/s3/ce201/CE201_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ce/s3/ce201/Introduction_to_the_mechanics_of_solids",
+      "t/ce/s3/ce201/Strength_of_material"
+    ]
   },
   {
     "sub": "CE203",
@@ -883,7 +947,9 @@
       "q/ce/s3/ce203/CE203_2017_JAN",
       "q/ce/s3/ce203/CE203_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ce/s3/ce203/Fluid_mechanics"
+    ]
   },
   {
     "sub": "CE205",
@@ -900,7 +966,11 @@
       "q/ce/s3/ce205/CE205_2017_JAN",
       "q/ce/s3/ce205/CE205_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ce/s3/ce205/Elements_of_minerarlology",
+      "t/ce/s3/ce205/Engineering_geology_principles_&_practice",
+      "t/ce/s3/ce205/Principles_of_physical_geology"
+    ]
   },
   {
     "sub": "CE207",
@@ -916,7 +986,9 @@
     "qp": [
       "q/ce/s3/ce207/CE207_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/ce/s3/ce207/Engineering_surveying"
+    ]
   },
   {
     "sub": "CE202",
@@ -998,19 +1070,26 @@
     "sub": "CE301",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce301/Limit_state_design_of_reinforced_concrete",
+      "t/ce/s5/ce301/Reinforced_concrete_design"
+    ]
   },
   {
     "sub": "CE303",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce303/Fundamentals_of_structural_analysis"
+    ]
   },
   {
     "sub": "CE305",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce305/Advanced_foudation_engineerng"
+    ]
   },
   {
     "sub": "CE307",
@@ -1018,25 +1097,34 @@
       "sylb/cse/s6/CS307"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce307/Geographical_information_sysytem"
+    ]
   },
   {
     "sub": "CE309",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce309/Irriagtion_engineering_hydraulic_structures"
+    ]
   },
   {
     "sub": "CE361",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce361/Concrete"
+    ]
   },
   {
     "sub": "CE365",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ce/s5/ce365/Foundation_analysis_&_design",
+      "t/ce/s5/ce365/Theoretical_soil_mechanics"
+    ]
   },
   {
     "sub": "CE373",
@@ -1651,7 +1739,13 @@
   {
     "sub": "EE404",
     "n": [
-      "sylb/eee/s8/EE404"
+      "sylb/eee/s8/EE404",
+      "n/eee/s8/ee404/EE404_M1",
+      "n/eee/s8/ee404/EE404_M2",
+      "n/eee/s8/ee404/EE404_M3",
+      "n/eee/s8/ee404/EE404_M4",
+      "n/eee/s8/ee404/EE404_M5",
+      "n/eee/s8/ee404/EE404_M6"
     ],
     "qp": [],
     "t": []
@@ -1719,7 +1813,12 @@
       "q/ece/s3/ec201/EC201_2017_JAN",
       "q/ece/s3/ec201/EC201_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ece/s3/ec201/Basic_circuit_theory",
+      "t/ece/s3/ec201/Electric_circuits",
+      "t/ece/s3/ec201/Network_analysis_&_synthesis",
+      "t/ece/s3/ec201/Network_analysis_synthesis"
+    ]
   },
   {
     "sub": "EC203",
@@ -1736,7 +1835,11 @@
       "q/ece/s3/ec203/EC203_2017_JAN",
       "q/ece/s3/ec203/EC203_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ece/s3/ec203/Network_analysis_&_synthesis",
+      "t/ece/s3/ec203/Physics_of_semiconductor_devices",
+      "t/ece/s3/ec203/Semiconductor_physics_&_devices"
+    ]
   },
   {
     "sub": "EC205",
@@ -1753,7 +1856,9 @@
       "q/ece/s3/ec205/EC205_2017_JAN",
       "q/ece/s3/ec205/EC205_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/ece/s3/ec205/Microelectronic_circuits"
+    ]
   },
   {
     "sub": "EC207",
@@ -1770,7 +1875,11 @@
       "q/ece/s3/ec207/EC207_2017_JAN",
       "q/ece/s3/ec207/EC207_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/ece/s3/ec207/Digital_design",
+      "t/ece/s3/ec207/Digital_design_principles_&_practices",
+      "t/ece/s3/ec207/Digital_logic_&_computer_design"
+    ]
   },
   {
     "sub": "MA204",
@@ -1880,7 +1989,10 @@
       "n/ece/s5/ec301/EC301_M6"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ece/s5/ec301/Digital_signal_processing",
+      "t/ece/s5/ec301/Digital_signal_processing_computer_based_approach"
+    ]
   },
   {
     "sub": "EC303",
@@ -1894,7 +2006,11 @@
       "n/ece/s5/ec303/EC303_M6"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ece/s5/ec303/Electromagnetism",
+      "t/ece/s5/ec303/Elements_of_electromagnetics",
+      "t/ece/s5/ec303/Engineering_electromagnetics"
+    ]
   },
   {
     "sub": "EC305",
@@ -1902,7 +2018,9 @@
       "sylb/ece/s5/EC305"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/ece/s5/ec305/The_8051_Microcontroller_architecture_programming_&_applications"
+    ]
   },
   {
     "sub": "EC307",
@@ -1916,7 +2034,10 @@
     "qp": [
       "q/ece/s3/ec307/EC307_Model_1"
     ],
-    "t": []
+    "t": [
+      "t/ece/s5/ec307/Devices_circuits_&_applications",
+      "t/ece/s5/ec307/Electronic_instrumentation"
+    ]
   },
   {
     "sub": "EC365",
@@ -2100,7 +2221,15 @@
   },
   {
     "sub": "EC402",
-    "n": [],
+    "n": [
+      "sylb/ece/s8/EC402",
+      "n/ece/S8/ec402/EC402_M1",
+      "n/ece/S8/ec402/EC402_M2",
+      "n/ece/S8/ec402/EC402_M3",
+      "n/ece/S8/ec402/EC402_M4",
+      "n/ece/S8/ec402/EC402_M5",
+      "n/ece/S8/ec402/EC402_M6"
+    ],
     "qp": [],
     "t": []
   },
