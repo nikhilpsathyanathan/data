@@ -13,7 +13,9 @@
       "q/s1-s2/ma101/MA101_2017_FEB_F",
       "q/s1-s2/ma101/MA101_2017_FEB_S"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/ma101/Calculus"
+    ]
   },
   {
     "sub": "PH100",
@@ -31,7 +33,9 @@
       "q/s1-s2/ph100/PH100_2017_JAN",
       "q/s1-s2/ph100/PH100_2017_MAY"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/ph100/Enginnering_physics"
+    ]
   },
   {
     "sub": "BE100",
@@ -49,7 +53,9 @@
       "q/s1-s2/be100/BE100_2017_JAN",
       "q/s1-s2/be100/BE100_2017_MAY"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/be100/Engineering_mechanics"
+    ]
   },
   {
     "sub": "BE1011",
@@ -139,7 +145,9 @@
       "q/s1-s2/be103/BE103_2017_JAN",
       "q/s1-s2/be103/BE103_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/be103/Renewable_energy_resource"
+    ]
   },
   {
     "sub": "CY100",
@@ -188,7 +196,9 @@
       "q/s1-s2/be102/BE102_2016_SEP",
       "q/s1-s2/be102/BE102_2017_JUN"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/be102/Introduction_to_design_&_engineering"
+    ]
   },
   {
     "sub": "EC100",
@@ -203,7 +213,9 @@
       "q/s1-s2/ec100/EC100_2016_SEP",
       "q/s1-s2/ec100/EC100_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/ec100/Basics_of_communication_engineering"
+    ]
   },
   {
     "sub": "CS100",
@@ -234,7 +246,9 @@
       "q/s1-s2/ee100/EE100_2017_JAN",
       "q/s1-s2/ee100/EE100_2017_JUN"
     ],
-    "t": []
+    "t": [
+      "t/s1-s2/ee100/Electrical_Engineering"
+    ]
   },
   {
     "sub": "ME100",
@@ -872,7 +886,7 @@
     "qp": [],
     "t": [
       "t/cse/s8/cs404/Computers_as_components_principles_of_embedded_computing_system_design",
-      "t/cse/s8/cs404/Embedded_Systems_Design.pdf"
+      "t/cse/s8/cs404/Embedded_Systems_Design"
     ]
   },
   {
@@ -898,7 +912,7 @@
     ],
     "qp": [],
     "t": [
-      "t/cse/s8/cs466/Mastering_Python_for_Data_Science.pdf"
+      "t/cse/s8/cs466/Mastering_Python_for_Data_Science"
     ]
   },
   {
@@ -1339,7 +1353,13 @@
   },
   {
     "sub": "CE402",
-    "n": [],
+    "n": [
+      "sylb/ce/s8/CE402",
+      "n/ce/s8/ce402/CE402_M1",
+      "n/ce/s8/ce402/CE402_M2",
+      "n/ce/s8/ce402/CE402_M3",
+      "n/ce/s8/ce402/CE402_M4"
+    ],
     "qp": [],
     "t": []
   },
@@ -1392,7 +1412,11 @@
       "q/eee/s3/ee201/EE201_2017_JAN",
       "q/eee/s3/ee201/EE201_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/eee/s3/ee201/Electric_circuits",
+      "t/eee/s3/ee201/Engineering_circuit_analysis",
+      "t/eee/s3/ee201/Network_analysis_&_synthesis"
+    ]
   },
   {
     "sub": "EE203",
@@ -1401,13 +1425,19 @@
       "q/eee/s3/ee203/EE203_2017_JAN",
       "q/eee/s3/ee203/EE203_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/eee/s3/ee203/Electronic_devices_&_circuits",
+      "t/eee/s3/ee203/Electronic_principles",
+      "t/eee/s3/ee203/Linear_integrated_circuit"
+    ]
   },
   {
     "sub": "EE205",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s3/ee205/Electric_machinery"
+    ]
   },
   {
     "sub": "EE207",
@@ -1416,7 +1446,11 @@
       "q/eee/s3/ee207/EE207_2017_JAN",
       "q/eee/s3/ee207/EE207_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/eee/s3/ee207/A_book_on_C",
+      "t/eee/s3/ee207/Introduction_to_computation_&_programming_using_python",
+      "t/eee/s3/ee207/Programming_with_C"
+    ]
   },
   {
     "sub": "EE202",
@@ -1500,13 +1534,19 @@
     "sub": "EE301",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s5/ee301/Electrical_power_system"
+    ]
   },
   {
     "sub": "EE303",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s5/ee303/Control_system_engineering",
+      "t/eee/s5/ee303/Electrical_engineering_series_instrumentation_&_controls_series",
+      "t/eee/s5/ee303/Modern_control_systems"
+    ]
   },
   {
     "sub": "EE305",
@@ -1520,19 +1560,28 @@
       "n/eee/s5/ee305/EE305_M6"
     ],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s5/ee305/Power_electronics_devices,_circuits,_&_applications"
+    ]
   },
   {
     "sub": "EE307",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s5/ee307/Signals_&_systems",
+      "t/eee/s5/ee307/Signals_&_systemss"
+    ]
   },
   {
     "sub": "EE309",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/eee/s5/ee309/Advanced_microprocessors_&_peripherals",
+      "t/eee/s5/ee309/Microprocessor_theory_&_applications",
+      "t/eee/s5/ee309/The_8051_microcontroller.pdf"
+    ]
   },
   {
     "sub": "EE367",
@@ -2223,12 +2272,12 @@
     "sub": "EC402",
     "n": [
       "sylb/ece/s8/EC402",
-      "n/ece/S8/ec402/EC402_M1",
-      "n/ece/S8/ec402/EC402_M2",
-      "n/ece/S8/ec402/EC402_M3",
-      "n/ece/S8/ec402/EC402_M4",
-      "n/ece/S8/ec402/EC402_M5",
-      "n/ece/S8/ec402/EC402_M6"
+      "n/ece/s8/ec402/EC402_M1",
+      "n/ece/s8/ec402/EC402_M2",
+      "n/ece/s8/ec402/EC402_M3",
+      "n/ece/s8/ec402/EC402_M4",
+      "n/ece/s8/ec402/EC402_M5",
+      "n/ece/s8/ec402/EC402_M6"
     ],
     "qp": [],
     "t": []
@@ -2237,12 +2286,12 @@
     "sub": "EC404",
     "n": [
       "sylb/ece/s8/EC404",
-      "n/ece/S8/ec404/EC404_M1",
-      "n/ece/S8/ec404/EC404_M2",
-      "n/ece/S8/ec404/EC404_M3",
-      "n/ece/S8/ec404/EC404_M4",
-      "n/ece/S8/ec404/EC404_M5",
-      "n/ece/S8/ec404/EC404_M6"
+      "n/ece/s8/ec404/EC404_M1",
+      "n/ece/s8/ec404/EC404_M2",
+      "n/ece/s8/ec404/EC404_M3",
+      "n/ece/s8/ec404/EC404_M4",
+      "n/ece/s8/ec404/EC404_M5",
+      "n/ece/s8/ec404/EC404_M6"
     ],
     "qp": [],
     "t": []
@@ -2257,12 +2306,12 @@
     "sub": "EC464",
     "n": [
       "sylb/ece/s8/EC464",
-      "n/ece/S8/ec464/EC464_M1",
-      "n/ece/S8/ec464/EC464_M2",
-      "n/ece/S8/ec464/EC464_M3",
-      "n/ece/S8/ec464/EC464_M4",
-      "n/ece/S8/ec464/EC464_M5",
-      "n/ece/S8/ec464/EC464_M6"
+      "n/ece/s8/ec464/EC464_M1",
+      "n/ece/s8/ec464/EC464_M2",
+      "n/ece/s8/ec464/EC464_M3",
+      "n/ece/s8/ec464/EC464_M4",
+      "n/ece/s8/ec464/EC464_M5",
+      "n/ece/s8/ec464/EC464_M6"
     ],
     "qp": [],
     "t": []
@@ -2271,12 +2320,12 @@
     "sub": "EC466",
     "n": [
       "sylb/ece/s8/EC466",
-      "n/ece/S8/ec466/EC466_M1",
-      "n/ece/S8/ec466/EC466_M2",
-      "n/ece/S8/ec466/EC466_M3",
-      "n/ece/S8/ec466/EC466_M4",
-      "n/ece/S8/ec466/EC466_M5",
-      "n/ece/S8/ec466/EC466_M6"
+      "n/ece/s8/ec466/EC466_M1",
+      "n/ece/s8/ec466/EC466_M2",
+      "n/ece/s8/ec466/EC466_M3",
+      "n/ece/s8/ec466/EC466_M4",
+      "n/ece/s8/ec466/EC466_M5",
+      "n/ece/s8/ec466/EC466_M6"
     ],
     "qp": [],
     "t": []
@@ -2306,7 +2355,10 @@
       "q/me/s3/me201/ME201_2017_JAN",
       "q/me/s3/me201/ME201_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/me/s5/me203/An_Introduction_to_the_mechanics_of_solids",
+      "t/me/s5/me203/Lecture_notes"
+    ]
   },
   {
     "sub": "ME203",
@@ -2315,7 +2367,11 @@
       "q/me/s3/me203/ME203_2017_JAN",
       "q/me/s3/me203/ME203_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/me/s5/me203/Engineering_fluid_mechanics",
+      "t/me/s5/me203/Fluid_Mechanics",
+      "t/me/s5/me203/Fluid_mechanics_streeter"
+    ]
   },
   {
     "sub": "ME205",
@@ -2324,7 +2380,9 @@
       "q/me/s3/me205/ME205_2017_JAN",
       "q/me/s3/me205/ME205_2017_JUL"
     ],
-    "t": []
+    "t": [
+      "t/me/s5/me205/Basics_&_applied_thermodynamics"
+    ]
   },
   {
     "sub": "ME210",
@@ -2332,7 +2390,10 @@
     "qp": [
       "q/me/s3/me210/ME210_2017_JAN"
     ],
-    "t": []
+    "t": [
+      "t/me/s5/me210/Mechanical_metallurgy",
+      "t/me/s5/me210/Metallurgy_&_materials"
+    ]
   },
   {
     "sub": "ME202",
@@ -2416,7 +2477,9 @@
     "sub": "ME301",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/me/s5/me301/Theories_of_machine"
+    ]
   },
   {
     "sub": "ME303",
@@ -2428,7 +2491,9 @@
     "sub": "ME305",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/me/s5/me305/Lecure_notes"
+    ]
   },
   {
     "sub": "ME367",
@@ -2440,7 +2505,10 @@
     "sub": "EE311",
     "n": [],
     "qp": [],
-    "t": []
+    "t": [
+      "t/me/s5/ee311/Electrical_machines",
+      "t/me/s5/ee311/Principles_of_electrical_machines"
+    ]
   },
   {
     "sub": "ME302",
