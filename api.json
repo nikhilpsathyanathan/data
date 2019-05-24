@@ -1372,10 +1372,12 @@
   {
     "sub": "CE404",
     "n": ["sylb/ce/s8/CE404",
-      "n/ce/s8/CE404/CE404_M1",
-      "n/ce/s8/CE404/CE404_M2",
-      "n/ce/s8/CE404/CE404_M3",
-      "n/ce/s8/CE404/CE404_M4"],
+      "n/ce/s8/ce404/CE404_M1",
+      "n/ce/s8/ce404/CE404_M2",
+      "n/ce/s8/ce404/CE404_M3",
+      "n/ce/s8/ce404/CE404_M4",
+      "n/ce/s8/ce404/CE404_M5",
+      "n/ce/s8/ce404/CE404_M6"],
     "qp": [],
     "t": []
   },
