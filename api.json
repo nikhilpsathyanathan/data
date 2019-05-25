@@ -662,7 +662,9 @@
       "n/cse/s6/cs302/CS302_M5",
       "n/cse/s6/cs302/CS302_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs302/CS302_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs302/Computer_Algorithms",
       "t/cse/s6/cs302/Introduction_to_Algorithms"
@@ -679,7 +681,9 @@
       "n/cse/s6/cs304/CS304_M5",
       "n/cse/s6/cs304/CS304_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs304/CS304_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs304/Compilers_Principles_Techniques_&_Tools",
       "t/cse/s6/cs304/System_Programming_&_Operating_Systems"
@@ -696,7 +700,9 @@
       "n/cse/s6/cs306/CS306_M5",
       "n/cse/s6/cs306/CS306_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs306/CS306_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs306/Computer_Networks",
       "t/cse/s6/cs306/Computer_Networks-A_Systems_Approach",
@@ -714,7 +720,9 @@
       "n/cse/s6/cs308/CS308_M5",
       "n/cse/s6/cs308/CS308_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs308/CS308_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs308/Software_Engineering",
       "t/cse/s6/cs308/Software_Engineering_A_practitioners_approach",
@@ -732,7 +740,9 @@
       "n/cse/s6/cs362/CS362_M5",
       "n/cse/s6/cs362/CS362_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs368/CS368_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs362/Computer_vision_&_Applications",
       "t/cse/s6/cs362/Computer_vision_A_Modern_Approach"
@@ -741,7 +751,9 @@
   {
     "sub": "CS364",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs364/CS364_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs364/Fundamentals_of_5G_Mobile_Networks",
       "t/cse/s6/cs364/Mobile_Communications",
@@ -751,7 +763,9 @@
   {
     "sub": "CS366",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs366/CS366_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs366/Speech_&_Language_Processing",
       "t/cse/s6/cs366/Natural_Language_Understanding"
@@ -768,7 +782,9 @@
       "n/cse/s6/cs368/CS368_M5",
       "n/cse/s6/cs368/CS368_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/cse/s6/cs368/CS368_2018_APR"
+    ],
     "t": [
       "t/cse/s6/cs368/Programming_the_World_Wide_Web",
       "t/cse/s6/cs368/Internet_&_World_Wide_Web_How_To_Program"
@@ -1163,7 +1179,9 @@
       "n/ce/s6/ce302/CE302_M4",
       "n/ce/s6/ce302/CE302_M5"
     ],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce302/CE302_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce302/Irriagtion_Engineering_Hydraulic_Structures"
     ]
@@ -1178,7 +1196,9 @@
       "n/ce/s6/ce304/CE304_M4",
       "n/ce/s6/ce304/CE304_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce304/CE304_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce304/Prestressed_Concrete",
       "t/ce/s6/ce304/Reinforced_Concrete_Design"
@@ -1195,7 +1215,9 @@
       "n/ce/s6/ce306/CE306_M5",
       "n/ce/s6/ce306/CE306_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce306/CE306_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce306/Applied_Numerical_Analysis",
       "t/ce/s6/ce306/C++_Programming",
@@ -1213,7 +1235,9 @@
       "n/ce/s6/ce308/CE308_M5",
       "n/ce/s6/ce308/CE308_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce308/CE308_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce308/Highway_Engineering"
     ]
@@ -1229,7 +1253,9 @@
       "n/ce/s6/ce362/CE362_M5",
       "n/ce/s6/ce362/CE362_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce362/CE362_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce362/Ground_Improvement_Techniques"
     ]
@@ -1237,7 +1263,9 @@
   {
     "sub": "CE364",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce364/CE364_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce364/Advanced_Foundation_Engineering"
     ]
@@ -1245,7 +1273,9 @@
   {
     "sub": "CE366",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce366/CE366_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce366/Highway_Engineering",
       "t/ce/s6/ce366/Traffic_Flow_Theory"
@@ -1254,7 +1284,9 @@
   {
     "sub": "CE368",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce368/CE368_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce368/Prestressed_concrete"
     ]
@@ -1262,7 +1294,9 @@
   {
     "sub": "CE372",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ce/s6/ce372/CE372_2018_APR"
+    ],
     "t": [
       "t/ce/s6/ce372/Engineering_Hydrology",
       "t/ce/s6/ce372/Hydrology"
@@ -1372,13 +1406,15 @@
   },
   {
     "sub": "CE404",
-    "n": ["sylb/ce/s8/CE404",
+    "n": [
+      "sylb/ce/s8/CE404",
       "n/ce/s8/ce404/CE404_M1",
       "n/ce/s8/ce404/CE404_M2",
       "n/ce/s8/ce404/CE404_M3",
       "n/ce/s8/ce404/CE404_M4",
       "n/ce/s8/ce404/CE404_M5",
-      "n/ce/s8/ce404/CE404_M6"],
+      "n/ce/s8/ce404/CE404_M6"
+    ],
     "qp": [],
     "t": []
   },
@@ -1613,7 +1649,9 @@
       "n/eee/s6/ee302/EE302_M5",
       "n/eee/s6/ee302/EE302_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee302/EE302_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee302/Elements_of_Electromagnetics",
       "t/eee/s6/ee302/Elements_of_Engineering_Electromagnetics"
@@ -1630,7 +1668,9 @@
       "n/eee/s6/ee304/EE304_M5",
       "n/eee/s6/ee304/EE304_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee304/EE304_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee304/Analysis_&_Synthesis_of_Sampled_Data_Systems",
       "t/eee/s6/ee304/Control_System_Engineering",
@@ -1650,7 +1690,9 @@
       "n/eee/s6/ee306/EE306_M5",
       "n/eee/s6/ee306/EE306_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee306/EE306_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee306/Electrical_Power_Systems",
       "t/eee/s6/ee306/Modern_Power_System_Analysis"
@@ -1666,7 +1708,9 @@
       "n/eee/s6/ee308/EE308_M4",
       "n/ee/s6/ee308/EE308_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee308/EE308_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee308/Modern_power_electronics_&_AC_drives"
     ]
@@ -1674,7 +1718,9 @@
   {
     "sub": "EE362",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee362/EE362_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee362/Algorith_&_Data_Structures",
       "t/eee/s6/ee362/Data_structures_&_Algorithms",
@@ -1685,7 +1731,9 @@
   {
     "sub": "EE364",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee364/EE364_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee364/Power_Electronics_Circuits_Devices_&_Applications",
       "t/eee/s6/ee364/Power_Electronics_Converters_Application_&_Design"
@@ -1694,7 +1742,9 @@
   {
     "sub": "EE366",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee362/EE366_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee366/Light_&_Engineering"
     ]
@@ -1710,7 +1760,9 @@
       "n/eee/s6/ee368/EE368_M5",
       "n/eee/s6/ee368/EE368_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee368/EE368_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee368/Neural_Networks_Algorithms_Applications_Programming_Techniques",
       "t/eee/s6/ee368/Neuro_Fuzzy_&_Soft_Computing"
@@ -1719,7 +1771,9 @@
   {
     "sub": "EE372",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/eee/s6/ee372/EE372_2018_APR"
+    ],
     "t": [
       "t/eee/s6/ee372/Medical_Instrumentation_Application_Design"
     ]
@@ -2116,7 +2170,9 @@
       "n/ece/s6/ec302/EC302_M3",
       "n/ece/s6/ec302/EC302_M4"
     ],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec302/EC302_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec302/Digital_Communication",
       "t/ece/s6/ec302/Communication_Systems"
@@ -2133,7 +2189,9 @@
       "n/ece/s6/ec304/EC304_M5",
       "n/ece/s6/ec304/EC304_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec304/EC304_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec304/Design_of_Analog_CMOS_Integrated_Circuits"
     ]
@@ -2149,7 +2207,9 @@
       "n/ece/s6/ec306/EC306_M5",
       "n/ece/s6/ec306/EC306_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec306/EC306_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec306/Antenna_Theory_and_Design",
       "t/ece/s6/ec306/Antennas_for_all_Applications"
@@ -2166,7 +2226,9 @@
       "n/ece/s6/ec308/EC308_M5",
       "n/ece/s6/ec308/EC308_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec308/EC308_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec308/An_Embedded_Software_Primer",
       "t/ece/s6/ec308/Computers_as_Components_Principles_of_Embedded_Computing_System"
@@ -2183,7 +2245,9 @@
       "n/ece/s6/ec312/EC312_M5",
       "n/ece/s6/ec312/EC312_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec312/EC312_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec312/Android_Programming",
       "t/ece/s6/ec312/Object_Oriented_Programming_with_C++_&_JAVA"
@@ -2192,7 +2256,9 @@
   {
     "sub": "EC362",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec362/EC362_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec362/Simulation_of_communication"
     ]
@@ -2200,7 +2266,9 @@
   {
     "sub": "EC366",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec366/EC366_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec366/Embedded_Systems_Building_Blocks"
     ]
@@ -2208,7 +2276,9 @@
   {
     "sub": "EC368",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec368/EC368_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec368/Robot_Dynamics_&_Control"
     ]
@@ -2216,7 +2286,9 @@
   {
     "sub": "EC370",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/ece/s6/ec370/EC370_2018_APR"
+    ],
     "t": [
       "t/ece/s6/ec370/Digital_Image_Processing"
     ]
@@ -2534,7 +2606,9 @@
       "n/me/s6/me302/ME302_M5",
       "n/me/s6/me302/ME302_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me302/ME302_2018_APR"
+    ],
     "t": [
       "t/me/s6/me302/Fundamentals_of_Heat_&_Mass_Transfer",
       "t/me/s6/me302/Heat_Transfer",
@@ -2552,7 +2626,9 @@
       "n/me/s6/me304/ME304_M5",
       "n/me/s6/me304/ME304_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me304/ME304_2018_APR"
+    ],
     "t": [
       "t/me/s6/me304/Theory_of_Machines"
     ]
@@ -2568,7 +2644,9 @@
       "n/me/s6/me306/ME306_M5",
       "n/me/s6/me306/ME306_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me306/ME306_2018_APR"
+    ],
     "t": [
       "t/me/s6/me306/Advanced_Machining_Processes"
     ]
@@ -2584,7 +2662,9 @@
       "n/me/s6/me308/ME308_M5",
       "n/me/s6/me308/ME308_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me308/ME308_2018_APR"
+    ],
     "t": [
       "t/me/s6/me308/Computer_Aided_Design_&_Manufacturing"
     ]
@@ -2600,7 +2680,9 @@
       "n/me/s6/me312/ME312_M5",
       "n/me/s6/me312/ME312_M6"
     ],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me312/ME312_2018_APR"
+    ],
     "t": [
       "t/me/s6/me312/Metrology_&_Measurement"
     ]
@@ -2608,7 +2690,9 @@
   {
     "sub": "ME362",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me362/ME362_2018_APR"
+    ],
     "t": [
       "t/me/s6/me362/Automatic_Control_Systems",
       "t/me/s6/me362/Control_Systems_Engineering"
@@ -2617,7 +2701,9 @@
   {
     "sub": "ME364",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me364/ME364_2018_APR"
+    ],
     "t": [
       "t/me/s6/me364/Gas_Turbines",
       "t/me/s6/me364/Fluid_Mechanics_and_Thermodynamics_of_Turbomachinery"
@@ -2626,19 +2712,25 @@
   {
     "sub": "ME366",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me366/ME366_2018_APR"
+    ],
     "t": []
   },
   {
     "sub": "ME368",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me368/ME368_2018_APR"
+    ],
     "t": []
   },
   {
     "sub": "ME372",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me372/ME372_2018_APR"
+    ],
     "t": []
   },
   {
@@ -2650,7 +2742,9 @@
   {
     "sub": "ME376",
     "n": [],
-    "qp": [],
+    "qp": [
+      "q/me/s6/me376/ME376_2018_APR"
+    ],
     "t": []
   },
   {
