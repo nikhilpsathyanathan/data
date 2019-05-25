@@ -750,7 +750,13 @@
   },
   {
     "sub": "CS364",
-    "n": [],
+    "n": ["sylb/cse/s6/CS364",
+      "n/cse/s6/cs364/CS364_M1",
+      "n/cse/s6/cs364/CS364_M2",
+      "n/cse/s6/cs364/CS364_M3",
+      "n/cse/s6/cs364/CS364_M4",
+      "n/cse/s6/cs364/CS364_M5",
+      "n/cse/s6/cs364/CS364_M6"],
     "qp": [
       "q/cse/s6/cs364/CS364_2018_APR"
     ],
